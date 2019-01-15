@@ -6,7 +6,7 @@ In 2007 I graduated from Tianjin University. In 2010 I received a Master’s Deg
 My research interests include Computer Vision and large-scale image retrieval. I have ten years of experience in these fields.
 I have applied for twenty-five patents, including image retrieval, image processing, computer vision and two patents have been issued.
 
-During the time I worked at TaoBao and JD, I was responsible for more than twenty computer vision projects. For example, image retrieval for near duplicate product image detection, three Dimension-like product image generation for multi-view product displays and using product images to generate video. I was awarded as an Excellent Mentor at JD in 2017 and 2018.
+During the time I worked at TaoBao and JD, I was responsible for more than twenty computer vision projects. For example, image retrieval for near duplicate product image detection, three Dimension-like product image generation for multi-view product displays and using product images to generate video. I was awarded as an Excellent Mentor at JD in 2017 and 2018. I am a member of CCF and IEEE.
 
 ### Publications in 2019
 **Shan An**, Zhibiao Huang, Shuang Bai, Guangfu Che, Xin Ma, Jie Luo, Yu Chen, "Quarter-point Product Quantization for Approximate Nearest Neighbor Search", submitted to Pattern Recognition Letters.
@@ -20,7 +20,7 @@ Shuang Bai，Huadong Tang，**Shan An**，“Coordinate CNNs and LSTMs to catego
 
 Shuang Bai，Chao Han，**Shan An**，“Recognizing Anomalies in Urban Road Scenes Through Analysing Single Images Captured by Cameras on Vehicles”, Sensing and Imaging, EI，2018.
 
-Shuang Bai，**Shan An**，“A Survey on Automatic Image Caption Generation”， Neurocomputing，SCI, 2018.
+Shuang Bai，**Shan An**，“A Survey on Automatic Image Caption Generation”， Neurocomputing， SCI, 2018.
 
 ### Publications in 2017
 Yu Chen, **Shan An**, Zhibiao Huang, “计算机视觉技术在京东无人门店的应用”，《人工智能》创刊号，2017.
