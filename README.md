@@ -20,7 +20,7 @@ Shuang Bai，Huadong Tang，**Shan An**，“Coordinate CNNs and LSTMs to catego
 
 Shuang Bai，Chao Han，**Shan An**，“Recognizing Anomalies in Urban Road Scenes Through Analysing Single Images Captured by Cameras on Vehicles”, Sensing and Imaging, EI，2018.
 
-Shuang Bai，**Shan An**，“A Survey on Automatic Image Caption Generation”，Neurocomputing，SCI, 2018.
+Shuang Bai，**Shan An**，“A Survey on Automatic Image Caption Generation”， Neurocomputing，SCI, 2018.
 
 ### Publications in 2017
 Yu Chen, **Shan An**, Zhibiao Huang, “计算机视觉技术在京东无人门店的应用”，《人工智能》创刊号，2017.
