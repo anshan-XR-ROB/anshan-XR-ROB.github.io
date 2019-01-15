@@ -6,7 +6,9 @@ In 2007 I graduated from Tianjin University. In 2010 I received a Master’s Deg
 My research interests include Computer Vision and large-scale image retrieval. I have ten years of experience in these fields.
 I have applied for twenty-five patents, including image retrieval, image processing, computer vision and two patents have been issued.
 
-During the time I worked at TaoBao and JD, I was responsible for more than twenty computer vision projects. For example, image retrieval for near duplicate product image detection, three Dimension-like product image generation for multi-view product displays and using product images to generate video. I was awarded as an Excellent Mentor at JD in 2017 and 2018. I am a member of CCF and IEEE.
+During the time I worked at TaoBao and JD, I was responsible for more than twenty computer vision projects. For example, image retrieval for near duplicate product image detection, three Dimension-like product image generation for multi-view product displays and using product images to generate video. I was awarded as an Excellent Mentor at JD in 2017 and 2018. 
+
+I have been a CCF member since 2015 and an IEEE member since 2018.
 
 ### Publications in 2019
 **Shan An**, Zhibiao Huang, Shuang Bai, Guangfu Che, Xin Ma, Jie Luo, Yu Chen, "Quarter-point Product Quantization for Approximate Nearest Neighbor Search", submitted to Pattern Recognition Letters.
