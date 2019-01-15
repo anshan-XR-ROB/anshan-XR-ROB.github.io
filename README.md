@@ -25,7 +25,7 @@ Shuang Bai，**Shan An**，“A Survey on Automatic Image Caption Generation”�
 ### Publications in 2017
 Yu Chen, **Shan An**, Zhibiao Huang, “计算机视觉技术在京东无人门店的应用”，《人工智能》创刊号，2017.
 
-Shan An, Zhibiao Huang, Yu Chen, Dennis Weng, “Near Duplicate Product Image Detection Based on Binary Hashing”，ACM 2017 International Conference on Deep Learning Technologies，EI indexed.
+**Shan An**, Zhibiao Huang, Yu Chen, Dennis Weng, “Near Duplicate Product Image Detection Based on Binary Hashing”，ACM 2017 International Conference on Deep Learning Technologies，EI indexed.
 
 ### Publications in 2009
 **Shan An**, Xin Ma, Rui Song, Yibin Li, “Face Detection and Recognition with SURF for Human-Robot Interaction”, IEEE International Conference on Automation & Logistics, pp.1446-1451, 2009. EI.
