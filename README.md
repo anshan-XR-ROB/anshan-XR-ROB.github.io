@@ -13,7 +13,7 @@ During the time I worked at TaoBao and JD, I was responsible for more than twent
 
 **Shan An**, Si Liu, Zhibiao Huang, Guangfu Che, Qian Bao, Zhaoqi Zhu,Yu Chen, Dennis Weng. RotateView: A Video Composition System for Interactive Product Display. submitted to Transactions on Multimedia.
 
-**Shan An**, An paper on approximate nearest neighbor search has been submitted to IEEE conference on Multimedia & Expo.
+**Shan An**, A paper on approximate nearest neighbor search has been submitted to IEEE conference on Multimedia & Expo.
 
 ### Publications in 2018
 Shuang Bai，Huadong Tang，**Shan An**，“Coordinate CNNs and LSTMs to categorize scene images with multi-views and multi-levels of abstraction”，Expert Systems with Applications，SCI, 2019.
