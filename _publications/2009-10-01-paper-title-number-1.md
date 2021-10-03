@@ -13,8 +13,6 @@ Mengzhu Wang, Shan An, Wei Yu, Lu Gui, Junyang Chen, Zhigang Luo, “Attention-b
 	
 Shan An, Dong Wei, Xiajie Zhang, et al., “Dual Regression for Efficient Hand Pose Estimation”, submitted to International Conference on Robotics and Automation (ICRA), 2022.
 
-Shan An, Haogang Zhu, Jiaao Zhang, Junjie Ye, Siliang Wang, Fangru Zhou, “Deep Tri-Training for Semi-Supervised Image Segmentation”, submitted to Thirty-Six AAAI Conference on Artificial Intelligence 2022. 
-
 Shan An, Guangfu Che, Jinghao Guo, et al., “ARShoe: Real-Time Augmented Reality Shoe Try-on System on Smartphones”, ACM Multimedia, 2021. 
 
 Konstantinos A. Tsintotas, Loukas Bampis, Shan An, et al.  “Sequence-based mapping for probabilistic visual loop closure detection”, IEEE International Conference on Imaging Systems and Techniques, 2021. 
