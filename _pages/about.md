@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to the homepage for the JD-AR Vision Learning Group housed in the Shared Service & Technology Platform at JD.COM Inc.!
+Welcome to the homepage for the JD-AR Vision Learning Group housed in the Shared Service & Technology Platform at [JD.COM Inc.](https://corporate.jd.com/home)!
 
 Here you’ll find information and links about our group and all our activities in research, talking, outreach, and open-source software.
 
