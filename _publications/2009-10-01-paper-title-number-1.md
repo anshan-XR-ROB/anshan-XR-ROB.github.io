@@ -1,13 +1,4 @@
----
-title: "Conference Publications"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2021-10-03
-venue: 'Conference Publications'
-paperurl: 
-citation: 
----
+
 
 Mengzhu Wang, Shan An, Wei Yu, Lu Gui, Junyang Chen, Zhigang Luo, “Attention-based Adversarial Partial Domain Adaptation”, submitted to International Conference on Acoustics, Speech, & Signal Processing (ICASSP) 2022.  
 	
