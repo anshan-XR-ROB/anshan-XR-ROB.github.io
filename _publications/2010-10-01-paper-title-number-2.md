@@ -1,7 +1,6 @@
 
 title: "Paper Title Number 2"
-permalink: /publication/2010-10-01-paper-title-number-2
-author_profile: true
+permalink: /2010-10-01-paper-title-number-2/
 
 
 {% include base_path %}
