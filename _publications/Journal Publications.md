@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-* 1. Shan An, Haogang Zhu, Dong Wei, Konstantinos A. Tsintotas, “Fast and Incremental Loop Closure Detection with Deep Features and Proximity Graphs”, submitted to Journal of Field Robotics, 2021. 
+* 1.Shan An, Haogang Zhu, Dong Wei, Konstantinos A. Tsintotas, “Fast and Incremental Loop Closure Detection with Deep Features and Proximity Graphs”, submitted to Journal of Field Robotics, 2021. 
 * 2.Hongxiang Gao, Zhenghua Chen, Yuwen Li, Xingyao Wang, Shan An, Jianqing Li, Chengyu Liu, “Multi-domain Adaptive Attention Combined Long-tailed Continual Learning for Facial Expression Recognition”, submitted to Engineering, 2021.
 * 3.Xianglong Liu, Shihao Bai, Yuqing Ma, Shan An, et al., “A Meaningful Learning Framework for Zero-shot Semantic Segmentation”, submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2021.
 * 4.Shan An, Xiajie Zhang, Dong Wei, et al., “Fast Monocular Hand Pose Estimation on Embedded Systems”, submitted to Journal of Systems Architecture, 2021.
