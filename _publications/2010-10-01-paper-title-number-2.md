@@ -1,6 +1,7 @@
 
 title: "Paper Title Number 2"
-permalink: /2010-10-01-paper-title-number-2/
+collection: publications
+permalink: / publications/2010-10-01-paper-title-number-2
 
 
 Education
