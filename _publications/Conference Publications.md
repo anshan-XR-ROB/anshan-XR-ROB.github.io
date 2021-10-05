@@ -6,8 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-* Mengzhu Wang, **Shan An**, Wei Yu, Lu Gui, Junyang Chen, Zhigang Luo, “Attention-based Adversarial Partial Domain Adaptation”, submitted to International Conference on Acoustics, Speech, & Signal Processing (ICASSP) 2022.
-* **Shan An**, Dong Wei, Xiajie Zhang, et al., “Dual Regression for Efficient Hand Pose Estimation”, submitted to International Conference on Robotics and Automation (ICRA), 2022.
+* Mengzhu Wang, **Shan An**, Wei Yu, Lu Gui, Junyang Chen, Zhigang Luo, “[Attention-based Adversarial Partial Domain Adaptation](http://baidu.com)”, submitted to International Conference on Acoustics, Speech, & Signal Processing (ICASSP) 2022.
+* **Shan An**, Dong Wei, Xiajie Zhang, et al., “[Dual Regression for Efficient Hand Pose Estimation](http://baidu.com "Dual Regression for Efficient Hand Pose Estimation")”, submitted to International Conference on Robotics and Automation (ICRA), 2022.
 * **Shan An**, Guangfu Che, Jinghao Guo, et al., “ARShoe: Real-Time Augmented Reality Shoe Try-on System on Smartphones”, ACM Multimedia, 2021.
 * Konstantinos A. Tsintotas, Loukas Bampis, **Shan An**, et al.  “Sequence-based mapping for probabilistic visual loop closure detection”, IEEE International Conference on Imaging Systems and Techniques, 2021.
 * Hongxiang Gao, **Shan An**, Jianqing Li and Chengyu Liu, “Deep Balanced Learning for Long-tailed Facial Expressions Recognition”, International Conference on Robotics and Automation (ICRA), 2021.
