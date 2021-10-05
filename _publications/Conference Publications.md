@@ -6,46 +6,45 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-* Mengzhu Wang , **Shan An** , Wei Yu , Lu Gui , Junyang Chen , and Zhigang Luo,  
+* Mengzhu Wang, **Shan An**, Wei Yu, Lu Gui, Junyang Chen, and Zhigang Luo,  
  “Attention-based Adversarial Partial Domain Adaptation”,   
  submitted to *International Conference on Acoustics, Speech, & Signal Processing (ICASSP) 2022*.
-* **Shan An** , Dong Wei , Xiajie Zhang , Jiaxin Tian ,Jianyu Yang , Konstantinos A. Tsintotas , and Haogang Zhu,  
+* **Shan An**, Dong Wei, Xiajie Zhang, Jiaxin Tian,Jianyu Yang, Konstantinos A. Tsintotas, and Haogang Zhu,  
   “Dual Regression for Efficient Hand Pose Estimation”,   
   submitted to *International Conference on Robotics and Automation (ICRA), 2022*.
-* **Shan An** , Guangfu Che , Jinghao Guo , Haogang Zhu , Junjie Ye , Fangru Zhou
-, Zhaoqi Zhu , Dong Wei , Aishan Liu , and Wei Zhang,
+* **Shan An**, Guangfu Che, Jinghao Guo, Haogang Zhu, Junjie Ye, Fangru Zhou, Zhaoqi Zhu , Dong Wei, Aishan Liu, and Wei Zhang,
   “[ARShoe: Real-Time Augmented Reality Shoe Try-on System on Smartphones](https://www.researchgate.net/publication/354115662_ARShoe_Real-Time_Augmented_Reality_Shoe_Try-on_System_on_Smartphones)”,  
   *ACM Multimedia, 2021*.
-* Konstantinos A. Tsintotas , Loukas Bampis , **Shan An** , George Fragulis , Prof. Spyridon G. Mouroutsos , and Prof. Antonios Gasteratos,  
+* Konstantinos A. Tsintotas, Loukas Bampis, **Shan An**, George Fragulis, Prof. Spyridon G. Mouroutsos, and Prof. Antonios Gasteratos,  
  “Sequence-based mapping for probabilistic visual loop closure detection”,  
  *IEEE International Conference on Imaging Systems and Techniques, 2021*.
-* Hongxiang Gao , **Shan An** , Jianqing Li , and Chengyu Liu,   
+* Hongxiang Gao, **Shan An**, Jianqing Li, and Chengyu Liu,   
  “[Deep Balanced Learning for Long-tailed Facial Expressions Recognition](https://www.researchgate.net/publication/350813732_Deep_Balanced_Learning_for_Long-tailed_Facial_Expressions_Recognition)”,  
  *International Conference on Robotics and Automation (ICRA), 2021*.
-* Peng Wang , Zheng Fang , Shibo Zhao , Yongnan Chen , Ming Zhou , **Shan An**,   
+* Peng Wang, Zheng Fang, Shibo Zhao, Yongnan Chen, Ming Zhou, **Shan An**,   
  “Vanishing Point Aided LiDAR-Visual-Inertial Estimator”,  
  *International Conference on Robotics and Automation (ICRA), 2021*.
-* **Shan An** , Jing Lv , Haogang Zhu , Jingyi Wang , Xiaoxue Zhou , Qining Liu , Yier Shu, Zhengyu Liu , Yingying Zhang , Xiangyu Liu , and Yihua He,   
+* **Shan An**, Jing Lv, Haogang Zhu, Jingyi Wang, Xiaoxue Zhou, Qining Liu, Yier Shu, Zhengyu Liu, Yingying Zhang, Xiangyu Liu, and Yihua He,   
  “Fetal Heart and Descending Aorta Detection in Four-Chamber View of Fetal Echocardiography”,  
  *43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2021.* 
-* **Shan An** , Xiaoxue Zhou , Haogang Zhu , Fangru Zhou , Yuduo Wu , Tingyang Yang , Xiangyu Liu , Yingying Zhang , Zhicheng Jiao , and Yihua He,   
+* **Shan An**, Xiaoxue Zhou, Haogang Zhu, Fangru Zhou, Yuduo Wu, Tingyang Yang, Xiangyu Liu, Yingying Zhang, Zhicheng Jiao, and Yihua He,   
  “Simultaneous Segmentation of Four Cardiac Chambers in Fetal Echocardiography”,   
  *43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2021*.
-* **Shan An** , Zhibiao Huang , Guangfu Che , Xianglong Liu , Xin Ma , and Yu Chen,  
+* **Shan An**, Zhibiao Huang, Guangfu Che, Xianglong Liu, Xin Ma, and Yu Chen,  
 “[Quarter-point Codeword Expansion for Product Quantization](https://ieeexplore.ieee.org/document/8784842)”,  
   *IEEE International Conference on Multimedia and Expo (ICME) 2019, Oral.*
-* **Shan An** , Guangfu Che , Fangru Zhou , Xianglong Liu , Xin Ma , and Yu Chen,  
+* **Shan An**, Guangfu Che, Fangru Zhou, Xianglong Liu, Xin Ma, and Yu Chen,  
  “[Fast and Incremental Loop Closure Detection using Proximity Graphs](https://www.researchgate.net/publication/337531404_Fast_and_Incremental_Loop_Closure_Detection_Using_Proximity_Graphs)”,  
  *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2019.*
-* Yuqing Ma , Shihao Bai , **Shan An** , Wei Liu , Aishan Liu , Xiantong Zhen , and Xianglong Liu,  
+* Yuqing Ma, Shihao Bai, **Shan An**, Wei Liu, Aishan Liu, Xiantong Zhen, and Xianglong Liu,  
  “[Transductive Relation-Propagation Network for Few-shot Learning](https://www.researchgate.net/publication/342798152_Transductive_Relation-Propagation_Network_for_Few-shot_Learning)”,  
  *The 29th International Joint Conference on Artificial Intelligence (IJCAI), 2020.*
-* Tingyang Yang , Jiancheng Han , Haogang Zhu , Tiantian Li , Xiaowei Liu , Xiaoyan Gu , Xiangyu Liu , **Shan An** , Yingying Zhang , Ye Zhang , and Yihua He,   
+* Tingyang Yang, Jiancheng Han, Haogang Zhu, Tiantian Li, Xiaowei Liu, Xiaoyan Gu, Xiangyu Liu, **Shan An**, Yingying Zhang, Ye Zhang, and Yihua He,   
  “[Segmentation of Five Components in Four Chamber View of Fetal Echocardiography](https://www.researchgate.net/publication/341588038_Segmentation_of_Five_Components_in_Four_Chamber_View_of_Fetal_Echocardiography)”,  
  *IEEE 17th International Symposium on Biomedical Imaging (ISBI), 2020.*
-* **Shan An** , Zhibiao Huang , Yu Chen , and Zhi Weng,  
+* **Shan An**, Zhibiao Huang, Yu Chen, and Zhi Weng,  
  “[Near Duplicate Product Image Detection Based on Binary Hashing](https://dl.acm.org/doi/abs/10.1145/3094243.3094260)”,   
  *ACM 2017 International Conference on Deep Learning Technologies, 2017.*
-* **Shan An** , Xin Ma , Rui Song , and Yibin Li,  
+* **Shan An**, Xin Ma, Rui Song, and Yibin Li,  
  “Face Detection and Recognition with SURF for Human-Robot Interaction”,   
 *IEEE International Conference on Automation & Logistics, 2009*. 
