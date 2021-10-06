@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-* **Shan An**, Haogang Zhu, Dong Wei, Konstantinos A. Tsintotas,   
+* **Shan An**, Haogang Zhu, Dong Wei, Konstantinos A. Tsintotas, and Antonios Gasteratos,   
  “[Fast and Incremental Loop Closure Detection with Deep Features and Proximity Graphs](https://arxiv.org/abs/2010.11703)”,  
   submitted to *Journal of Field Robotics, 2021*. 
 * Hongxiang Gao, Zhenghua Chen, Yuwen Li, Xingyao Wang, **Shan An**, Jianqing Li, Chengyu Liu,   
@@ -39,7 +39,7 @@ submitted to *Neural Networks*.
 * Shuang Bai, Huadong Tang, **Shan An**,   
  “[Coordinate CNNs and LSTMs to categorize scene images with multi-views and multi-levels of abstraction](https://www.sciencedirect.com/science/article/pii/S0957417418305700)”,  
  *Expert Systems with Applications, Volume 120, 15 Apr. 2019, Pages 298-309. (IF:5.452)*
-* **Shan An**, Si Liu, Zhibiao Huang , Guangfu Che , Qian Bao , Zhaoqi Zhu , Yu Chen , and Weng Dennis Z,   
+* **Shan An**, Si Liu, Zhibiao Huang , Guangfu Che , Qian Bao , Zhaoqi Zhu , Yu Chen , and   Dennis Z. Weng,   
  “[RotateView: A video composition system for interactive product display](https://ieeexplore.ieee.org/document/8721552)”,   
  *IEEE Transactions on Multimedia (TMM)，Volume 21, Dec. 2019, Pages 3095-3105. (IF:6.513)*.
 * **Shan An**, Zhibiao Huang, Shuang Bai, Guangfu Che , Xin Ma , Jie Luo , and Yu Che ,  

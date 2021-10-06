@@ -15,7 +15,7 @@ redirect_from:
 * **Shan An**, Guangfu Che, Jinghao Guo, Haogang Zhu, Junjie Ye, Fangru Zhou, Zhaoqi Zhu , Dong Wei, Aishan Liu, and Wei Zhang,
   “[ARShoe: Real-Time Augmented Reality Shoe Try-on System on Smartphones](https://arxiv.org/abs/2108.10515v1)”,  
   *ACM Multimedia, 2021*.
-* Konstantinos A. Tsintotas, Loukas Bampis, **Shan An**, George Fragulis, Prof. Spyridon G. Mouroutsos, and Prof. Antonios Gasteratos,  
+* Konstantinos A. Tsintotas, Loukas Bampis, **Shan An**, George Fragulis, Prof. Spyridon G. Mouroutsos, and Antonios Gasteratos,  
  “Sequence-based mapping for probabilistic visual loop closure detection”,  
  *IEEE International Conference on Imaging Systems and Techniques, 2021*.
 * Hongxiang Gao, **Shan An**, Jianqing Li, and Chengyu Liu,   
@@ -38,7 +38,7 @@ redirect_from:
  *IEEE 17th International Symposium on Biomedical Imaging (ISBI), 2020.*
 * **Shan An**, Zhibiao Huang, Guangfu Che, Xianglong Liu, Xin Ma, and Yu Chen,  
 “[Quarter-point Codeword Expansion for Product Quantization](https://ieeexplore.ieee.org/document/8784842)”,  
-  *IEEE International Conference on Multimedia and Expo (ICME) 2019, Oral.*
+  *IEEE International Conference on Multimedia and Expo (ICME) 2019.*
 * **Shan An**, Guangfu Che, Fangru Zhou, Xianglong Liu, Xin Ma, and Yu Chen,  
  “[Fast and Incremental Loop Closure Detection using Proximity Graphs](https://ieeexplore.ieee.org/document/8968043)”,  
  *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2019.*
