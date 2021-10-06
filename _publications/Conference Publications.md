@@ -21,7 +21,7 @@ redirect_from:
 * Hongxiang Gao, **Shan An**, Jianqing Li, and Chengyu Liu,   
  “Deep Balanced Learning for Long-tailed Facial Expressions Recognition”,  
  *International Conference on Robotics and Automation (ICRA), 2021*.
-* Peng Wang, Zheng Fang, Shibo Zhao, Yongnan Chen, Ming Zhou, **Shan An**,   
+* Peng Wang, Zheng Fang, Shibo Zhao, Yongnan Chen, Ming Zhou, and **Shan An**,   
  “Vanishing Point Aided LiDAR-Visual-Inertial Estimator”,  
  *International Conference on Robotics and Automation (ICRA), 2021*.
 * **Shan An**, Jing Lv, Haogang Zhu, Jingyi Wang, Xiaoxue Zhou, Qining Liu, Yier Shu, Zhengyu Liu, Yingying Zhang, Xiangyu Liu, and Yihua He,   
