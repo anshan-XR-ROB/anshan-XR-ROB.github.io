@@ -30,18 +30,18 @@ redirect_from:
 * **Shan An**, Xiaoxue Zhou, Haogang Zhu, Fangru Zhou, Yuduo Wu, Tingyang Yang, Xiangyu Liu, Yingying Zhang, Zhicheng Jiao, and Yihua He,   
  “Simultaneous Segmentation of Four Cardiac Chambers in Fetal Echocardiography”,   
  *43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2021*.
-* **Shan An**, Zhibiao Huang, Guangfu Che, Xianglong Liu, Xin Ma, and Yu Chen,  
-“[Quarter-point Codeword Expansion for Product Quantization](https://ieeexplore.ieee.org/document/8784842)”,  
-  *IEEE International Conference on Multimedia and Expo (ICME) 2019, Oral.*
-* **Shan An**, Guangfu Che, Fangru Zhou, Xianglong Liu, Xin Ma, and Yu Chen,  
- “[Fast and Incremental Loop Closure Detection using Proximity Graphs](https://ieeexplore.ieee.org/document/8968043)”,  
- *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2019.*
 * Yuqing Ma, Shihao Bai, **Shan An**, Wei Liu, Aishan Liu, Xiantong Zhen, and Xianglong Liu,  
  “[Transductive Relation-Propagation Network for Few-shot Learning](https://www.ijcai.org/proceedings/2020/112)”,  
  *The 29th International Joint Conference on Artificial Intelligence (IJCAI), 2020.*
 * Tingyang Yang, Jiancheng Han, Haogang Zhu, Tiantian Li, Xiaowei Liu, Xiaoyan Gu, Xiangyu Liu, **Shan An**, Yingying Zhang, Ye Zhang, and Yihua He,   
  “[Segmentation of Five Components in Four Chamber View of Fetal Echocardiography](https://ieeexplore.ieee.org/document/9098726)”,  
  *IEEE 17th International Symposium on Biomedical Imaging (ISBI), 2020.*
+* **Shan An**, Zhibiao Huang, Guangfu Che, Xianglong Liu, Xin Ma, and Yu Chen,  
+“[Quarter-point Codeword Expansion for Product Quantization](https://ieeexplore.ieee.org/document/8784842)”,  
+  *IEEE International Conference on Multimedia and Expo (ICME) 2019, Oral.*
+* **Shan An**, Guangfu Che, Fangru Zhou, Xianglong Liu, Xin Ma, and Yu Chen,  
+ “[Fast and Incremental Loop Closure Detection using Proximity Graphs](https://ieeexplore.ieee.org/document/8968043)”,  
+ *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2019.*
 * **Shan An**, Zhibiao Huang, Yu Chen, and Zhi Weng,  
  “[Near Duplicate Product Image Detection Based on Binary Hashing](https://dl.acm.org/doi/abs/10.1145/3094243.3094260)”,   
  *ACM 2017 International Conference on Deep Learning Technologies, 2017.*
