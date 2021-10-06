@@ -7,16 +7,16 @@ redirect_from:
   - /resume
 ---
 * **Shan An**, Haogang Zhu, Dong Wei, Konstantinos A. Tsintotas,   
- “[Fast and Incremental Loop Closure Detection with Deep Features and Proximity Graphs](https://www.researchgate.net/publication/344827975_Fast_and_Incremental_Loop_Closure_Detection_with_Deep_Features_and_Proximity_Graphs)”,  
+ “[Fast and Incremental Loop Closure Detection with Deep Features and Proximity Graphs](https://arxiv.org/abs/2010.11703)”,  
   submitted to *Journal of Field Robotics, 2021*. 
 * Hongxiang Gao, Zhenghua Chen, Yuwen Li, Xingyao Wang, **Shan An**, Jianqing Li, Chengyu Liu,   
  “Multi-domain Adaptive Attention Combined Long-tailed Continual Learning for Facial Expression Recognition”,   
  submitted to *Engineering, 2021*.
-* Xianglong Liu, Shihao Bai, Yuqing Ma, **Shan An**, et al.,   
+* Xianglong Liu, Shihao Bai, Yuqing Ma, **Shan An**, Shuo Wang, Wei Liu, and Xiaowei Zhao,   
  “A Meaningful Learning Framework for Zero-shot Semantic Segmentation”,   
  submitted to *IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2021.*
-* **Shan An**, Xiajie Zhang, Dong Wei, et al.,   
- “Fast Monocular Hand Pose Estimation on Embedded Systems”,  
+* **Shan An**, Xiajie Zhang, Dong Wei, , Haogang Zhu，Jianyu Yang, and Konstantinos A. Tsintotas,   
+ “[Fast Monocular Hand Pose Estimation on Embedded Systems](https://arxiv.org/abs/2102.07067)”,  
  submitted to *Journal of Systems Architecture, 2021*.
 * Junjie Ye, Changhong Fu, Ziang Cao, **Shan An**, Guangze Zheng,  
  “Tracker Meets Night: A Transformer Enhancer for UAV Tracking”,   
@@ -25,13 +25,13 @@ redirect_from:
  “Domain-Specific Feature Recalibration and Alignment for Multi-Source Unsupervised Domain Adaptation”,   
  submitted to *Information Sciences*.
 * Mengzhu Wang, Paul Li, **Shan An**, Shanshan Wang, Wei Wang, Xiang Zhang, Junyang Chen, Wei Yu, Zhigang Luo,   
- “Informative Pairs Mining based Adaptive Metric Learning for Adversarial Domain Adaptation”, 
-  submitted to *Neural Networks*.
+ “Informative Pairs Mining based Adaptive Metric Learning for Adversarial Domain Adaptation”,   
+submitted to *Neural Networks*.
 * **Shan An**, Haogang Zhu, Yuanshuai Wang, et al.,  
- “A Category Attention Instance Segmentation Network for Four Cardiac Chambers Segmentation in Fetal Echocardiography”,   
+ “[A Category Attention Instance Segmentation Network for Four Cardiac Chambers Segmentation in Fetal Echocardiography](https://www.sciencedirect.com/science/article/pii/S0895611121001324)”,   
  *Computerized Medical Imaging and Graphics, 2021*. 
 * Junjie Ye, Changhong Fu, Fuling Lin, Fangqiang Ding, **Shan An**, Geng Lu,   
- “Multi-Regularized Correlation Filter for UAV Tracking and Self-Localization”,   
+ “[Multi-Regularized Correlation Filter for UAV Tracking and Self-Localization](https://ieeexplore.ieee.org/abstract/document/9457090)”,   
   *IEEE Transactions on Industrial Electronics (T-IE), 2021. (IF:8.236).*
 * Chang Tang, Xinwang Liu, **Shan An**, and Pichao Wang.   
  “[BR2Net: Defocus Blur Detection via Bi-directional Channel Attention Residual Refining Network](https://ieeexplore.ieee.org/document/9057632)”,    
@@ -40,14 +40,14 @@ redirect_from:
  “[Coordinate CNNs and LSTMs to categorize scene images with multi-views and multi-levels of abstraction](https://www.sciencedirect.com/science/article/pii/S0957417418305700)”,  
  *Expert Systems with Applications, Volume 120, 15 Apr. 2019, Pages 298-309. (IF:5.452)*
 * **Shan An**, Si Liu, Zhibiao Huang , Guangfu Che , Qian Bao , Zhaoqi Zhu , Yu Chen , and Weng Dennis Z,   
- “[RotateView: A video composition system for interactive product display](http://gkwl.nbu.edu.cn/asset/detail.aspx?id=203808881773)”,   
+ “[RotateView: A video composition system for interactive product display](https://ieeexplore.ieee.org/document/8721552)”,   
  *IEEE Transactions on Multimedia (TMM)，Volume 21, Dec. 2019, Pages 3095-3105. (IF:6.513)*.
 * **Shan An**, Zhibiao Huang, Shuang Bai, Guangfu Che , Xin Ma , Jie Luo , and Yu Che ,  
  “[Quarter-point Product Quantization for Approximate Nearest Neighbor Search](https://www.sciencedirect.com/science/article/pii/S0167865519301242)”,   
   *Pattern Recognition Letters，Volume 125, 2019, Pages 187-194. (IF:3.756)*. 
 * Shuang Bai, **Shan An**,   
- “[A Survey on Automatic Image Caption Generation](https://www.researchgate.net/profile/Shuang-Bai-3/publication/325384133_A_Survey_on_Automatic_Image_Caption_Generation/links/5b7e8a0fa6fdcc5f8b5e4e84/A-Survey-on-Automatic-Image-Caption-Generation.pdf)”，  
+ “[A Survey on Automatic Image Caption Generation](https://www.sciencedirect.com/science/article/pii/S0925231218306659)”,  
  *Neurocomputing，Volume 311, Oct. 2018, Pages 291-304. (IF:5.719).*
 * Shuang Bai, Chao Han, and **Shan An**,  
- “[Recognizing Anomalies in Urban Road Scenes Through Analysing Single Images Captured by Cameras on Vehicles](https://www.researchgate.net/publication/326956550_Recognizing_Anomalies_in_Urban_Road_Scenes_Through_Analysing_Single_Images_Captured_by_Cameras_on_Vehicles)”,   
+ “[Recognizing Anomalies in Urban Road Scenes Through Analysing Single Images Captured by Cameras on Vehicles](https://link.springer.com/article/10.1007/s11220-018-0218-7)”,   
  *Sensing and Imaging, Volume 19, Issue 1, 19 pp. 2018. (IF: 1.12)*.
