@@ -27,7 +27,7 @@ redirect_from:
 * Mengzhu Wang, Paul Li, **Shan An**, Shanshan Wang, Wei Wang, Xiang Zhang, Junyang Chen, Wei Yu, Zhigang Luo,   
  “Informative Pairs Mining based Adaptive Metric Learning for Adversarial Domain Adaptation”,   
 submitted to *Neural Networks*.
-* **Shan An**, Haogang Zhu, Yuanshuai Wang, et al.,  
+* **Shan An**, Haogang Zhu, Yuanshuai Wang, Fangru Zhou, Xiaoxue Zhou, Xu Yang, Yingying Zhang, Xiangyu Liu,Zhicheng Jiao, and Yihua He,  
  “[A Category Attention Instance Segmentation Network for Four Cardiac Chambers Segmentation in Fetal Echocardiography](https://www.sciencedirect.com/science/article/pii/S0895611121001324)”,   
  *Computerized Medical Imaging and Graphics, 2021*. 
 * Junjie Ye, Changhong Fu, Fuling Lin, Fangqiang Ding, **Shan An**, Geng Lu,   

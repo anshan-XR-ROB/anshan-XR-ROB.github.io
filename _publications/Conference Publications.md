@@ -34,7 +34,7 @@ redirect_from:
 “[Quarter-point Codeword Expansion for Product Quantization](https://ieeexplore.ieee.org/document/8784842)”,  
   *IEEE International Conference on Multimedia and Expo (ICME) 2019, Oral.*
 * **Shan An**, Guangfu Che, Fangru Zhou, Xianglong Liu, Xin Ma, and Yu Chen,  
- “[Fast and Incremental Loop Closure Detection using Proximity Graphs](https://arxiv.org/abs/1911.10752v1)”,  
+ “[Fast and Incremental Loop Closure Detection using Proximity Graphs](https://ieeexplore.ieee.org/document/8968043)”,  
  *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2019.*
 * Yuqing Ma, Shihao Bai, **Shan An**, Wei Liu, Aishan Liu, Xiantong Zhen, and Xianglong Liu,  
  “[Transductive Relation-Propagation Network for Few-shot Learning](https://www.ijcai.org/proceedings/2020/112)”,  
