@@ -12,8 +12,8 @@ redirect_from:
 * **Shan An**, Dong Wei, Xiajie Zhang, Jiaxin Tian,Jianyu Yang, Konstantinos A. Tsintotas, and Haogang Zhu,  
   “Dual Regression for Efficient Hand Pose Estimation”,   
   submitted to *International Conference on Robotics and Automation (ICRA), 2022*.
-* **Shan An**, Guangfu Che, Jinghao Guo, Haogang Zhu, Junjie Ye, Fangru Zhou, Zhaoqi Zhu , Dong Wei, Aishan Liu, and Wei Zhang,
-  “[ARShoe: Real-Time Augmented Reality Shoe Try-on System on Smartphones](https://arxiv.org/abs/2108.10515v1)”,  
+* **Shan An**, Guangfu Che, Jinghao Guo, Haogang Zhu, Junjie Ye, Fangru Zhou, Zhaoqi Zhu , Dong Wei, Aishan Liu, and Wei Zhang,  
+“[ARShoe: Real-Time Augmented Reality Shoe Try-on System on Smartphones](https://arxiv.org/abs/2108.10515v1)”,  
   *ACM Multimedia, 2021*.
 * Konstantinos A. Tsintotas, Loukas Bampis, **Shan An**, George Fragulis, Prof. Spyridon G. Mouroutsos, and Antonios Gasteratos,  
  “Sequence-based mapping for probabilistic visual loop closure detection”,  
