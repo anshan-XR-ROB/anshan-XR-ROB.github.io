@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shan An's website"
+title: "Shan An/JD-AR Vision Learning Group"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -21,7 +21,7 @@ Our group specializes in human perception, environment perception, and augmented
 - Foot landmark detection
 - Hand pose estimation and gesture recognition
 
-**Scene PerceptionSite-wide configuration**
+**Scene Perception**
 
 - Visual SLAM 
 - Place recognition 
