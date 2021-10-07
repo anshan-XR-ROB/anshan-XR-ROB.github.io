@@ -12,7 +12,7 @@ I am the team leader of JD-AR Vision Learning Group, JD.COM Inc. Before that, I 
 
 Current Research Interest
 ======
-Focus on Computer Vision Tasks in Augmented Reality and Change the Real World
+Our group specializes in human perception, environment perception, and augmented reality, especially as applied to the field of consumer intelligence. 
 
 **Human Body Perception**
 
