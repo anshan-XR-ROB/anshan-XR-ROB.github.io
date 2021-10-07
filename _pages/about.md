@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shan An/JD-AR Vision Learning Group"
+title: "Shan An / JD-AR Vision Learning Group"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
