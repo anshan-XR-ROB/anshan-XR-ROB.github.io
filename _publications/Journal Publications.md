@@ -17,7 +17,7 @@ redirect_from:
  submitted to *IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2021.*
 * **Shan An**, Xiajie Zhang, Dong Wei, , Haogang Zhu，Jianyu Yang, and Konstantinos A. Tsintotas,   
  “[Fast Monocular Hand Pose Estimation on Embedded Systems](https://arxiv.org/abs/2102.07067)”,  
- submitted to *Journal of Systems Architecture, 2021*.
+ *Journal of Systems Architecture, 2021*.
 * Junjie Ye, Changhong Fu, Ziang Cao, **Shan An**, and Guangze Zheng,  
  “Tracker Meets Night: A Transformer Enhancer for UAV Tracking”,   
  submitted to *IEEE Robotics and Automation Letters*.
