@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Talks"
 permalink: /talks/talk
 author_profile: true
 redirect_from:
