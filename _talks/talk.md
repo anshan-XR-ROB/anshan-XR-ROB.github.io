@@ -1,14 +1,11 @@
-
 ---
 layout: archive
 title: "Talks"
-permalink: /talks/2012-03-01-talk-1
+permalink: /talks/talk
 author_profile: true
 redirect_from:
   - /resume
 ---
-
-
 * Real-time monocular human depth estimation and segmentation on embedded systems  
  Pre-IROS 2021 in China.  
 2021
