@@ -1,6 +1,9 @@
 ---
 layout: archive
+<<<<<<< HEAD
 title: "talks"
+=======
+>>>>>>> 55917da227f340eda849ecf8ecae307919da257c
 permalink: /talks/talk
 author_profile: true
 redirect_from:
@@ -17,7 +20,11 @@ redirect_from:
 2020   
 * Thoughts on AI research in academia and industry  
 CCF Young Computer Scientists & Engineers Forum, Wuhan, China.   
+<<<<<<< HEAD
 2020     
+=======
+2020    
+>>>>>>> 55917da227f340eda849ecf8ecae307919da257c
 * Computer vision algorithms and applications  
   Yanshan University.   
  2019   
