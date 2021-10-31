@@ -51,3 +51,6 @@ redirect_from:
 * **Shan An**, Xin Ma, Rui Song, and Yibin Li,  
  “[Face Detection and Recognition with SURF for Human-Robot Interaction](https://ieeexplore.ieee.org/abstract/document/5262624)”,   
 *IEEE International Conference on Automation & Logistics, 2009*. 
+* Yinying Zhu, Jun Yang, Zhengtao Cao, **Shan An**, and Mengsun Yu,   
+“A method for automatic correction of sleep respiratory events using snoring signals”,  
+ *China Instrumentation & Measurement & Control Technology Conference, 2008.*

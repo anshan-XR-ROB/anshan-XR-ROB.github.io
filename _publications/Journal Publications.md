@@ -1,4 +1,4 @@
----
+[https://d.wanfangdata.com.cn/periodical/dzclyyqxb200904011](https://d.wanfangdata.com.cn/periodical/dzclyyqxb200904011)---
 layout: archive
 title: "Journal Publications"
 permalink: /publication/Journal Publications
@@ -52,5 +52,5 @@ submitted to *Neural Networks*.
  “[Recognizing Anomalies in Urban Road Scenes Through Analysing Single Images Captured by Cameras on Vehicles](https://link.springer.com/article/10.1007/s11220-018-0218-7)”,   
  *Sensing and Imaging, Volume 19, Issue 1, 19 pp. 2018. (IF: 1.12)*.
 * Yingying Zhu, **Shan An**, Jun Yang, and Mengsun Yu,  
- “Compensation algorithm for respiration signal based on MSMSMS”,   
+ “[Compensation algorithm for respiration signal based on MSMSMS](https://d.wanfangdata.com.cn/periodical/dzclyyqxb200904011)”,   
  *Journal of Electronic Measurement and Instrument, 2009, 23(4): 55-59.*
