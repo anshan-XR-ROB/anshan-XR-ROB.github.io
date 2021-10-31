@@ -1,6 +1,6 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><video src="/images/ARCosmetics.png" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>"
+excerpt: "Short description of portfolio item number 1<br/><video src="/images/ARCosmetics.png" controls="controls" width="500" height="300">"
 collection: portfolio
 ---
 
