@@ -1,4 +1,4 @@
-[https://d.wanfangdata.com.cn/periodical/dzclyyqxb200904011](https://d.wanfangdata.com.cn/periodical/dzclyyqxb200904011)---
+---
 layout: archive
 title: "Journal Publications"
 permalink: /publication/Journal Publications
