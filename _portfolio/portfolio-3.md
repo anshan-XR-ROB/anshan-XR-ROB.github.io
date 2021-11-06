@@ -1,6 +1,6 @@
 ---
 title: "ARShoe"
-excerpt: "Short description of portfolio item number 1<br/><video src='/images/ARShoe.mp4' controls='controls'>"
+excerpt: "<video src='/images/ARShoe.mp4' controls='controls'>"
 collection: portfolio
 ---
 
