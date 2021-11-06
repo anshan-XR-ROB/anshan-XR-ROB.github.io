@@ -7,13 +7,8 @@ main:
     url: /talks/       
     
   - title: "Projects"
-    url: /projects/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+    url: /projects/      
     
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
