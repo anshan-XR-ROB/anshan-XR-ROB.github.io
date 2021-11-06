@@ -1,6 +1,6 @@
 ---
 title: "Hand Pose Estimation"
-excerpt: "Short description of portfolio item number 1<br/><video src='/images/Hand Pose Estimation.mp4' controls='controls'>"
+excerpt: "<video src='/images/Hand Pose Estimation.mp4' controls='controls'>"
 collection: portfolio
 ---
 
