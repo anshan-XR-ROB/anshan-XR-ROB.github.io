@@ -17,20 +17,19 @@ Our group specializes in human perception, environment perception, and augmented
 **Human Body Perception**
 
 - Face detection, recognition and synthesis
-- Face landmark detection
-- Foot landmark detection
+- Face / Foot landmark detection
 - Hand pose estimation and gesture recognition
+- Human pose estimation
 
 **Scene Perception**
 
-- Visual SLAM 
-- Place recognition 
-- Plane detection
-- Depth Estimation
+- Visual SLAM and Place recognition 
+- Depth Estimation 
+- Domain adaptation for scene understanding
 
 **Object Perception**
 
 - Content-based product image retrieval
-- Object segmentation
-- 6DoF object pose estimation and tracking
+- Semantic and instance segmentation
+- Neural reconstruction
 
