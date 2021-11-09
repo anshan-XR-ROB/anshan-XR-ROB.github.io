@@ -1,5 +1,5 @@
 ---
-title: "ARGlass"
+title: "ARGlasses"
 excerpt: "<video src='/images/AR.mp4' controls='controls'>"
 collection: portfolio
 ---
