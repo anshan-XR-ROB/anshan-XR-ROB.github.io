@@ -1,6 +1,6 @@
 ---
 title: "ARGlass"
-excerpt: "<video  width='304' height='640' src='/images/ARGlasses0.mp4' controls='controls'>"
+excerpt: "<video  width='304' height='640' src='/images/ARGlass.mp4' controls='controls'>"
 collection: portfolio
 ---
 
