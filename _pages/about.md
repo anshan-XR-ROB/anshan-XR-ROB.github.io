@@ -10,7 +10,7 @@ redirect_from:
 
 I am the team leader of the JD-AR Vision Learning Group, JD.COM Inc. Before that, I worked for the China Academy of Space Technology as a software engineer from 2010 to 2013, and worked for Taobao.COM Inc. of Alibaba Group as a senior algorithm engineer from 2013 to 2016. I received a Bachelor's degree in automation engineering from Tianjin University, China, in 2007 and a Master's degree in control science from Shandong University, China, in 2010.
 
-Current Research Interest
+Current Research Interests
 ======
 Our group specializes in human perception, environment perception, and augmented reality, especially as applied to the field of consumer intelligence. 
 
@@ -33,3 +33,8 @@ Our group specializes in human perception, environment perception, and augmented
 - Semantic and instance segmentation
 - Neural reconstruction
 
+
+
+To Prospective Students
+======
+We are looking for passionate interns who are pursuing a PhD or a Master degree in computer vision or machine learning research fields. Their tasks are researching and developing state of the art computer vision technologies for augmented reality, while the ultimate goal is to change the real world. Welcome interested students to contact me directly.
