@@ -11,30 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Automation Engineering, Tianjin University, China, 2007
+* M.S. in Control Science and Engineering, Shandong University, China, 2014
+* Ph.D in Software Engineering, Beihang University, China, 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Feb. 2016 - present: Leader of the Vision Learning Goup, Tech. and Data Center
+  * JD.COM Inc., Beijing, China
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Aug. 2013 - Feb. 2016: Senior Algorithm Engineer
+  * Taobao.COM Inc., Hangzhou, China
+
+* Aug. 2010 - Aug. 2013: Software Engineer
+  * China Academy of Space Technology, China
 
 Publications
 ======
@@ -48,12 +38,14 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Membership of Professional Associations
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.Membership %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Academic Activities
 ======
-* Currently signed in to 43 different slack teams
+  <ul>{% for post in site.academic activities %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
