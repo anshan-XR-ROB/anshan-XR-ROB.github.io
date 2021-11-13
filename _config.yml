@@ -248,13 +248,13 @@ defaults:
       author_profile: true
       share: true
   # _academic activities 
-    - scope:
-        path: ""
-        type: academic activities
-      values:
-        layout: academic activities
-        author_profile: true
-        share: true
+  - scope:
+      path: ""
+      type: academic activities
+    values:
+      layout: academic activities
+      author_profile: true
+      share: true
 
 
 # Sass/SCSS
