@@ -9,9 +9,6 @@ main:
   - title: "Projects"
     url: /projects/ 
     
-  - title: "Membership"
-    url: /Membership/ 
-    
   - title: "Academic Activities"
     url: /Academic Activities/ 
     
