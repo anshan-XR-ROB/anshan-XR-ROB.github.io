@@ -1,6 +1,5 @@
 ---
 title: "Academic"
-collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2-Academic Activities 1
 ---
