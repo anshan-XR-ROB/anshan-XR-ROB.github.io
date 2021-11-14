@@ -19,7 +19,8 @@ redirect_from:
 * Member of China Society of Image and Graphics (CSIG) 
 * Member of CSIG Visual Big Data Committee
 * Member of Chinese Association of Automation (CAA)
-* Member of Association for Computing Machinery (ACM)   
+* Member of Association for Computing Machinery (ACM)  
+ 
 **Program Committee Member**
 * ACM International Conference on Multimedia (MM), 2019-2021.
 * ACM Multimedia Asia 2019, 2021.
