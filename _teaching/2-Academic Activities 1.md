@@ -22,16 +22,26 @@ redirect_from:
 * Member of Chinese Association of Automation (CAA)
 * Member of Association for Computing Machinery (ACM) 
 
+<<<<<<< HEAD
 **Program Committee Member**
 
+=======
+Program Committee Member
+======
+>>>>>>> dcb11739a4e58c030b361ecdc17862e2c4992edf
 * ACM International Conference on Multimedia (MM), 2019-2021.
 * ACM Multimedia Asia 2019, 2021.
 * International Joint Conference on Artificial Intelligence (IJCAI), 2021-2024.
 * AAAI Conference on Artificial Intelligence, 2022.
 
 
+<<<<<<< HEAD
 **Reviewer** 
 
+=======
+Reviewer 
+======
+>>>>>>> dcb11739a4e58c030b361ecdc17862e2c4992edf
 * IEEE Transactions on Neural Networks and Learning Systems, IF:10.451.
 * Pattern Recognition, IF:7.74.
 * IEEE Transactions on Multimedia, IF:6.513.
