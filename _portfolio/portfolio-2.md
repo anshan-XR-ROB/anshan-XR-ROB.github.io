@@ -1,6 +1,6 @@
 ---
 title: "ARGlasses"
-excerpt: "<video src='/images/AR.mp4' controls='controls'>"
+excerpt: "**ARGlasses**<br/><video src='/images/AR.mp4' controls='controls'>"
 collection: portfolio
 ---
 
