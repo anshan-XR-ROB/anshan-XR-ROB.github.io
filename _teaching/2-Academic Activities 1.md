@@ -11,7 +11,8 @@ redirect_from:
 * ACM International Conference on Multimedia (MM), 2019-2021.
 * ACM Multimedia Asia 2019, 2021.
 * International Joint Conference on Artificial Intelligence (IJCAI), 2021-2024.
-* AAAI Conference on Artificial Intelligence, 2022. 
+* AAAI Conference on Artificial Intelligence, 2022.
+
 ## Reviewer ##
 * IEEE Transactions on Neural Networks and Learning Systems, IF:10.451.
 * Pattern Recognition, IF:7.74.
