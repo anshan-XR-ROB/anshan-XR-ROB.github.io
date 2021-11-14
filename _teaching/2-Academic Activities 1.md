@@ -6,30 +6,48 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)  
+<font size=5>**Membership Of Professional Associations**</font>  
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Senior Member of Institute of Electrical and Electronics Engineers (IEEE) 
+* Member of IEEE Young Professionals
+* Member of IEEE Robotics and Automation Society
+* Member of IEEE Signal Processing Society
+* Member of IEEE Consumer Technology Society   
+* Member of IEEE Biometrics Council  
+* Member of China Computer Federation (CCF)
+* Member of CCF Tech Frontier Committee
+* Member of CCF Computer Vision Committee
+* Member of China Society of Image and Graphics (CSIG) 
+* Member of CSIG Visual Big Data Committee
+* Member of Chinese Association of Automation (CAA)
+* Member of Association for Computing Machinery (ACM)  
+ 
+<font size=5>**Program Committee Member**</font>  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* ACM International Conference on Multimedia (MM), 2019-2021.
+* ACM Multimedia Asia 2019, 2021.
+* International Joint Conference on Artificial Intelligence (IJCAI), 2021-2024.
+* AAAI Conference on Artificial Intelligence, 2022.  
 
+<font size=5>**Reviewer**</font>  
+ 
+* IEEE Transactions on Neural Networks and Learning Systems, IF:10.451.
+* Pattern Recognition, IF:7.74.
+* IEEE Transactions on Multimedia, IF:6.513.
+* IEEE Journal of Biomedical and Health Informatics, IF:5.223.
+* Pattern Recognition Letters, IF:3.756. 
+* Frontiers of Computer Science, IF:2.061.
+* IET Image Processing, IF:1.995.
+* IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2019, 2021.
+* IEEE International Conference on Advanced Robotics and Mechatronics (ICARM), 2019.
+* ACM International Conference on Multimedia (MM), 2019, 2020, 2021.
+* ACM Multimedia Asia, 2019, 2021.
+* International Conference on Pattern Recognition (ICPR), 2021.
+* IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021.
+* International Joint Conference on Artificial Intelligence (IJCAI), 2021.
+* IEEE International Conference on Computer Vision (ICCV), 2021.
+* IEEE International Conference on Robotics and Automation (ICRA), 2021.
+* IEEE International Symposium on Biomedical Imaging (ISBI), 2021，2012.
+* IEEE International Conference on Multimedia and Expo (ICME), 2021.
+* IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2021.
+* 36th AAAI Conference on Artificial Intelligence (AAAI), 2022. 
