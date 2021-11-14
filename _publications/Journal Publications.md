@@ -6,7 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-**Journal Publications**
+Journal Publications
+======
 * **Shan An**, Haogang Zhu, Dong Wei, Konstantinos A. Tsintotas, and Antonios Gasteratos,   
  “[Fast and Incremental Loop Closure Detection with Deep Features and Proximity Graphs](https://arxiv.org/abs/2010.11703)”,  
   submitted to *Journal of Field Robotics, 2021*. 
