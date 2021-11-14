@@ -1,18 +1,14 @@
 ---
 layout: archive
-<<<<<<< HEAD
-title: "Conference Publications"
-=======
 title: "Academic Activities"
->>>>>>> d1f81a72db178a27560d02f22b29c317c2f5b66b
 permalink: /teaching/2-Academic Activities 1
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-Membership Of Professional Associations
-======
+**Membership Of Professional Associations**
+
 * Member of IEEE Young Professionals
 * Member of IEEE Robotics and Automation Society
 * Member of IEEE Signal Processing Society
@@ -26,18 +22,16 @@ Membership Of Professional Associations
 * Member of Chinese Association of Automation (CAA)
 * Member of Association for Computing Machinery (ACM) 
 
+**Program Committee Member**
 
-Program Committee Member
-======
 * ACM International Conference on Multimedia (MM), 2019-2021.
 * ACM Multimedia Asia 2019, 2021.
 * International Joint Conference on Artificial Intelligence (IJCAI), 2021-2024.
 * AAAI Conference on Artificial Intelligence, 2022.
 
 
+**Reviewer** 
 
-Reviewer 
-======
 * IEEE Transactions on Neural Networks and Learning Systems, IF:10.451.
 * Pattern Recognition, IF:7.74.
 * IEEE Transactions on Multimedia, IF:6.513.
