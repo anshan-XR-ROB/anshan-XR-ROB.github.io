@@ -1,19 +1,36 @@
 ---
 layout: archive
-title: "Academic"
+title: "Academic Activities"
 permalink: /teaching/2-Academic Activities 1
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-## Program Committee Member ##
+Membership Of Professional Associations
+======
+* Member of IEEE Young Professionals
+* Member of IEEE Robotics and Automation Society
+* Member of IEEE Signal Processing Society
+* Member of IEEE Consumer Technology Society   
+* Member of IEEE Biometrics Council  
+* Member of China Computer Federation (CCF)
+* Member of CCF Tech Frontier Committee
+* Member of CCF Computer Vision Committee
+* Member of China Society of Image and Graphics (CSIG) 
+* Member of CSIG Visual Big Data Committee
+* Member of Chinese Association of Automation (CAA)
+* Member of Association for Computing Machinery (ACM) 
+
+Program Committee Member
+======
 * ACM International Conference on Multimedia (MM), 2019-2021.
 * ACM Multimedia Asia 2019, 2021.
 * International Joint Conference on Artificial Intelligence (IJCAI), 2021-2024.
 * AAAI Conference on Artificial Intelligence, 2022.
 
-## Reviewer ##
+Reviewer 
+======
 * IEEE Transactions on Neural Networks and Learning Systems, IF:10.451.
 * Pattern Recognition, IF:7.74.
 * IEEE Transactions on Multimedia, IF:6.513.
