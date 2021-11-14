@@ -1,7 +1,10 @@
 ---
+layout: archive
 title: "Academic"
-type: "Undergraduate course"
 permalink: /teaching/2-Academic Activities 1
+author_profile: true
+redirect_from:
+  - /resume
 ---
 
 ## Program Committee Member ##
