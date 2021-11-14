@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Academic Activities"
-permalink: /teaching/2-Academic Activities 1
+permalink: /teaching/2-Academic Activities 1/
 author_profile: true
 redirect_from:
   - /resume
@@ -10,7 +10,7 @@ Education
 ======
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)  
 
 Work experience
 ======
