@@ -1,8 +1,10 @@
 ---
-title: "Academic"
-collection: teaching
-type: "Undergraduate course"
+layout: archive
+title: "Conference Publications"
 permalink: /teaching/2-Academic Activities 1
+author_profile: true
+redirect_from:
+  - /resume
 ---
 
 ## Program Committee Member ##

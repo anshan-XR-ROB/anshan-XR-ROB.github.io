@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Membership of Professional Associations"
-permalink:/teaching/1-membership
+title: "Conference Publications"
+permalink: /teaching/1-membership
 author_profile: true
 redirect_from:
   - /resume
@@ -19,18 +19,3 @@ redirect_from:
 * Member of CSIG Visual Big Data Committee
 * Member of Chinese Association of Automation (CAA)
 * Member of Association for Computing Machinery (ACM)  
-
-
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
