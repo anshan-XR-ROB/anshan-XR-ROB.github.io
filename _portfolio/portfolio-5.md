@@ -1,6 +1,6 @@
 ---
 title: "ARFloor"
-excerpt: "<video src='/images/ARFloor.mp4' controls='controls'>"
+excerpt: "**ARFloor**<br/><video src='/images/ARFloor.mp4' controls='controls'>"
 collection: portfolio
 ---
 
