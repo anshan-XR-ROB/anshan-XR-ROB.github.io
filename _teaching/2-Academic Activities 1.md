@@ -6,8 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<font size=5>**Membership Of Professional Associations**</font>  
-
+<font size=5>**Membership Of Professional Associations**</font>
 * Senior Member of Institute of Electrical and Electronics Engineers (IEEE) 
 * Member of IEEE Young Professionals
 * Member of IEEE Robotics and Automation Society
@@ -21,16 +20,12 @@ redirect_from:
 * Member of CSIG Visual Big Data Committee
 * Member of Chinese Association of Automation (CAA)
 * Member of Association for Computing Machinery (ACM)  
- 
 <font size=5>**Program Committee Member**</font>  
-
 * ACM International Conference on Multimedia (MM), 2019-2021.
 * ACM Multimedia Asia 2019, 2021.
 * International Joint Conference on Artificial Intelligence (IJCAI), 2021-2024.
 * AAAI Conference on Artificial Intelligence, 2022.  
-
 <font size=5>**Reviewer**</font>  
- 
 * IEEE Transactions on Neural Networks and Learning Systems, IF:10.451.
 * Pattern Recognition, IF:7.74.
 * IEEE Transactions on Multimedia, IF:6.513.
