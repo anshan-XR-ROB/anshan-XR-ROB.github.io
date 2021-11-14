@@ -37,15 +37,9 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Membership of Professional Associations
-======
-  <ul>{% for post in site.Membership %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+ 
 Academic Activities
 ======
-  <ul>{% for post in site.academic activities %}
-    {% include archive-single-talk-cv.html %}
+<ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
