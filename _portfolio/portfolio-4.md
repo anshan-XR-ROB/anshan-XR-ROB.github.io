@@ -1,6 +1,6 @@
 ---
 title: "Hand Pose Estimation"
-excerpt: "<video src='/images/hand pose0.mp4' controls='controls'>"
+excerpt: "**Hand Pose Estimation**<br/><video src='/images/hand pose0.mp4' controls='controls'>"
 collection: portfolio
 ---
 
