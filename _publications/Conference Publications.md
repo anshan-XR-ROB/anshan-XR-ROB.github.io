@@ -6,7 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-**Conference Publications**
+Conference Publications
+======
 * Mengzhu Wang, **Shan An**, Wei Yu, Lu Gui, Junyang Chen, and Zhigang Luo,  
  “Attention-based Adversarial Partial Domain Adaptation”,   
  submitted to *International Conference on Acoustics, Speech, & Signal Processing (ICASSP) 2022*.
