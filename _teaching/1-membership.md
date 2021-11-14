@@ -1,11 +1,9 @@
 ---
-layout: archive
 title: "Membership of Professional Associations"
-permalink:/teaching/1-membership
-author_profile: true
-redirect_from:
-  - /resume
+type: "Undergraduate course"
+permalink: /teaching/1-membership
 ---
+
 ## Senior Member of Institute of Electrical and Electronics Engineers (IEEE) ##
 * Member of IEEE Young Professionals
 * Member of IEEE Robotics and Automation Society
