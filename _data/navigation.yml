@@ -10,7 +10,7 @@ main:
     url: /projects/ 
     
   - title: "Academic Activities"
-    url: /academic activities/ 
+    url: /academic_activities/ 
     
   - title: "CV"
     url: /cv/

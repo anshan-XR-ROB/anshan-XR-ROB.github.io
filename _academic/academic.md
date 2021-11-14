@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 ---
 layout: archive
 title: "Academic Activities"
-permalink: /academic activities/academic activities
+permalink: /academic/academic
 author_profile: true
 redirect_from:
   - /resume
