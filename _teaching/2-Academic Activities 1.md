@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-# Membership Of Professional Associations #
+# Membership of Professional Associations #
 * Senior Member of Institute of Electrical and Electronics Engineers (IEEE) 
 * Member of IEEE Young Professionals
 * Member of IEEE Robotics and Automation Society
