@@ -9,7 +9,6 @@ redirect_from:
 # Talks and Presentations #
 * Real-time Monocular Human Depth Estimation and Segmentation on Embedded Systems,  
  Pre-IROS in China, and IROS 2021.  
-2021
 * RotateView: A video composition system for interactive product display,  
  Beihang University.  
 2020 
@@ -24,13 +23,10 @@ CCF Young Computer Scientists & Engineers Forum, Wuhan, China.
  2019 
  * Fast and Incremental Loop Closure Detection using Proximity Graphs,  
    IROS 2019.   
- 2019 
  * Quarter-point Codeword Expansion for Product Quantization,  
    ICME 2019.  
- 2019 
 * Product image retrieval techniques,  
  Institute of Information Engineering, Chinese Academy of Sciences.  
 2018
 * Near Duplicate Product Image Detection Based on Binary Hashing, 
  ICDLT 2017.  
-2017
