@@ -47,7 +47,7 @@ Conference Publications
 * **Shan An**, Guangfu Che, Fangru Zhou, Xianglong Liu, Xin Ma, and Yu Chen,  
  “[Fast and Incremental Loop Closure Detection using Proximity Graphs](https://ieeexplore.ieee.org/document/8968043)”,  
  *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2019.*
-* **Shan An**, Zhibiao Huang, Yu Chen, and Zhi Weng,  
+* **Shan An**, Zhibiao Huang, Yu Chen, and Dennis Weng,  
  “[Near Duplicate Product Image Detection Based on Binary Hashing](https://dl.acm.org/doi/abs/10.1145/3094243.3094260)”,   
  *ACM 2017 International Conference on Deep Learning Technologies, 2017.*
 * **Shan An**, Xin Ma, Rui Song, and Yibin Li,  
