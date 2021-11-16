@@ -31,6 +31,6 @@ CCF Young Computer Scientists & Engineers Forum, Wuhan, China.
 * Product image retrieval techniques,  
  Institute of Information Engineering, Chinese Academy of Sciences.    
  2018
-* Near Duplicate Product Image Detection Based on Binary Hashing, 
+* Near Duplicate Product Image Detection Based on Binary Hashing,   
  ICDLT.   
  2017
