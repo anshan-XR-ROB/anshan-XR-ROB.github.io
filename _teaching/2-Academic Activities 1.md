@@ -43,7 +43,7 @@ redirect_from:
 * IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021.
 * International Joint Conference on Artificial Intelligence (IJCAI), 2021.
 * IEEE International Conference on Computer Vision (ICCV), 2021.
-* IEEE International Conference on Robotics and Automation (ICRA), 2021.
+* IEEE International Conference on Robotics and Automation (ICRA), 2021, 2022.
 * IEEE International Symposium on Biomedical Imaging (ISBI), 2021，2022.
 * IEEE International Conference on Multimedia and Expo (ICME), 2021.
 * IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2021.
