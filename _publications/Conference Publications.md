@@ -20,9 +20,9 @@ Conference Publications
 *  **Shan An**, Fangru Zhou, Mei Yang, Haogang Zhu, Changhong Fu, and Konstantinos A. Tsintotas,   
  “[Real-time Monocular Human Depth Estimation and Segmentation on Embedded Systems](https://arxiv.org/abs/2108.10506v1)”,   
 *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021*.
-* Konstantinos A. Tsintotas, Loukas Bampis, **Shan An**, George Fragulis, Spyridon G. Mouroutsos, and Antonios Gasteratos,  
+* Konstantinos A. Tsintotas, Loukas Bampis, **Shan An**, George F. Fragulis, Spyridon G. Mouroutsos, and Antonios Gasteratos,  
  “Sequence-based mapping for probabilistic visual loop closure detection”,  
- *IEEE International Conference on Imaging Systems and Techniques, 2021*.
+ *In proceedings of the IEEE international conference on imaging systems and techniques (IST), 2021*.
 * Hongxiang Gao, **Shan An**, Jianqing Li, and Chengyu Liu,   
  “Deep Balanced Learning for Long-tailed Facial Expressions Recognition”,  
  *International Conference on Robotics and Automation (ICRA), 2021*.
