@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 # Talks and Presentations #
-* JD AR cosmetics try-on system and shoe try-on system,
+* JD AR cosmetics try-on system and shoe try-on system,  
 DataFun Talk, and Qilu University of Technology.   
  2021
 * Real-time Monocular Human Depth Estimation and Segmentation on Embedded Systems,  
