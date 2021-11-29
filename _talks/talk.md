@@ -7,6 +7,9 @@ redirect_from:
   - /resume
 ---
 # Talks and Presentations #
+* JD AR cosmetics try-on system and shoe try-on system,
+DataFun Talk, and Qilu University of Technology.   
+ 2021
 * Real-time Monocular Human Depth Estimation and Segmentation on Embedded Systems,  
  Pre-IROS in China, and IROS  2021.  
 * RotateView: A video composition system for interactive product display,  
