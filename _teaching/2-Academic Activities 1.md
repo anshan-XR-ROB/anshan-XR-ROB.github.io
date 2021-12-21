@@ -28,13 +28,14 @@ redirect_from:
 * AAAI Conference on Artificial Intelligence, 2022.  
   
 # Reviewer  #
-* IEEE Transactions on Neural Networks and Learning Systems, IF:10.451.
-* Pattern Recognition, IF:7.74.
-* IEEE Transactions on Multimedia, IF:6.513.
-* IEEE Journal of Biomedical and Health Informatics, IF:5.223.
-* Pattern Recognition Letters, IF:3.756. 
-* Frontiers of Computer Science, IF:2.061.
-* IET Image Processing, IF:1.995.
+* IEEE Transactions on Neural Networks and Learning Systems.
+* Pattern Recognition.
+* IEEE Transactions on Multimedia.
+* IEEE Journal of Biomedical and Health Informatics.
+* Pattern Recognition Letters. 
+* Frontiers of Computer Science.
+* IET Image Processing.
+* Computational Intelligence and Neuroscience.
 * IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2019, 2021.
 * IEEE International Conference on Advanced Robotics and Mechatronics (ICARM), 2019.
 * ACM International Conference on Multimedia (MM), 2019, 2020, 2021.
