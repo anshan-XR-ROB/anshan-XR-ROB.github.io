@@ -10,16 +10,16 @@ Journal Publications
 ======
 * **Shan An**, Haogang Zhu, Dong Wei, Konstantinos A. Tsintotas, and Antonios Gasteratos,   
  “[Fast and Incremental Loop Closure Detection with Deep Features and Proximity Graphs](https://arxiv.org/abs/2010.11703)”,  
-  submitted to *Journal of Field Robotics, 2021*. 
+  submitted to *Journal of Field Robotics*. 
 * Hongxiang Gao, Zhenghua Chen, Yuwen Li, Xingyao Wang, **Shan An**, Jianqing Li, and Chengyu Liu,   
  “Multi-domain Adaptive Attention Combined Long-tailed Continual Learning for Facial Expression Recognition”,   
- submitted to *Engineering, 2021*.
+ submitted to *Engineering*.
 * Xianglong Liu, Shihao Bai, Yuqing Ma, **Shan An**, Shuo Wang, Wei Liu, and Xiaowei Zhao,   
  “A Meaningful Learning Framework for Zero-shot Semantic Segmentation”,   
- submitted to *IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2021.*
+ submitted to *IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)*
 * **Shan An**, Xiajie Zhang, Dong Wei, , Haogang Zhu，Jianyu Yang, and Konstantinos A. Tsintotas,   
- “[FastHand: Fast Monocular Hand Pose Estimation on Embedded Systems](https://arxiv.org/abs/2102.07067)”,  
- *Journal of Systems Architecture, 2021*.
+ “[FastHand: Fast Monocular Hand Pose Estimation on Embedded Systems](https://www.sciencedirect.com/science/article/abs/pii/S1383762121002514)”,  
+ *Journal of Systems Architecture, 2022*.
 * Junjie Ye, Changhong Fu, Ziang Cao, **Shan An**, and Guangze Zheng,  
  “Tracker Meets Night: A Transformer Enhancer for UAV Tracking”,   
  submitted to *IEEE Robotics and Automation Letters*.
