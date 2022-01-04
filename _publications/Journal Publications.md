@@ -8,27 +8,27 @@ redirect_from:
 ---
 Journal Publications
 ======
-* **Shan An**, Haogang Zhu, Dong Wei, Konstantinos A. Tsintotas, and Antonios Gasteratos,   
- “[Fast and Incremental Loop Closure Detection with Deep Features and Proximity Graphs](https://arxiv.org/abs/2010.11703)”,  
-  submitted to *Journal of Field Robotics*. 
 * Hongxiang Gao, Zhenghua Chen, Yuwen Li, Xingyao Wang, **Shan An**, Jianqing Li, and Chengyu Liu,   
  “Multi-domain Adaptive Attention Combined Long-tailed Continual Learning for Facial Expression Recognition”,   
  submitted to *Engineering*.
 * Xianglong Liu, Shihao Bai, Yuqing Ma, **Shan An**, Shuo Wang, Wei Liu, and Xiaowei Zhao,   
  “A Meaningful Learning Framework for Zero-shot Semantic Segmentation”,   
  submitted to *IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)*
-* **Shan An**, Xiajie Zhang, Dong Wei, , Haogang Zhu，Jianyu Yang, and Konstantinos A. Tsintotas,   
- “[FastHand: Fast Monocular Hand Pose Estimation on Embedded Systems](https://www.sciencedirect.com/science/article/abs/pii/S1383762121002514)”,  
- *Journal of Systems Architecture, 2022*.
-* Junjie Ye, Changhong Fu, Ziang Cao, **Shan An**, and Guangze Zheng,  
- “Tracker Meets Night: A Transformer Enhancer for UAV Tracking”,   
- submitted to *IEEE Robotics and Automation Letters*.
-* Mengzhu Wang, **Shan An**, Shanshan Wang, Tianyi Liang, and Zhigang Luo,   
+ * Mengzhu Wang, **Shan An**, Shanshan Wang, Tianyi Liang, and Zhigang Luo,   
  “Domain-Specific Feature Recalibration and Alignment for Multi-Source Unsupervised Domain Adaptation”,   
  submitted to *Information Sciences*.
 * Mengzhu Wang, Paul Li, **Shan An**, Shanshan Wang, Wei Wang, Xiang Zhang, Junyang Chen, Wei Yu, and Zhigang Luo,   
  “Informative Pairs Mining based Adaptive Metric Learning for Adversarial Domain Adaptation”,   
-submitted to *Neural Networks*.
+ submitted to *Neural Networks*.
+* **Shan An**, Haogang Zhu, Dong Wei, Konstantinos A. Tsintotas, and Antonios Gasteratos,   
+ “[Fast and Incremental Loop Closure Detection with Deep Features and Proximity Graphs](https://arxiv.org/abs/2010.11703)”,  
+  *Journal of Field Robotics,2022*. 
+* **Shan An**, Xiajie Zhang, Dong Wei, , Haogang Zhu，Jianyu Yang, and Konstantinos A. Tsintotas,   
+ “[FastHand: Fast Monocular Hand Pose Estimation on Embedded Systems](https://www.sciencedirect.com/science/article/abs/pii/S1383762121002514)”,  
+ *Journal of Systems Architecture, 2022*.
+* Junjie Ye, Changhong Fu, Ziang Cao, **Shan An**, Guangze Zheng , and Bowen Li,  
+ “Tracker Meets Night: A Transformer Enhancer for UAV Tracking”,   
+ *IEEE Robotics and Automation Letters(RA-L) ,2022*.
 * **Shan An**, Haogang Zhu, Yuanshuai Wang, Fangru Zhou, Xiaoxue Zhou, Xu Yang, Yingying Zhang, Xiangyu Liu,Zhicheng Jiao, and Yihua He,  
  “[A Category Attention Instance Segmentation Network for Four Cardiac Chambers Segmentation in Fetal Echocardiography](https://www.sciencedirect.com/science/article/pii/S0895611121001324)”,   
  *Computerized Medical Imaging and Graphics, 2021*. 
@@ -39,7 +39,7 @@ submitted to *Neural Networks*.
  “[BR2Net: Defocus Blur Detection via Bi-directional Channel Attention Residual Refining Network](https://ieeexplore.ieee.org/document/9057632)”,    
  *IEEE Transactions on Multimedia (TMM), Volume 23, Apr. 2020, Pages 624-635. (IF:6.513).*
 * Shuang Bai, Huadong Tang, and **Shan An**,   
- “[Coordinate CNNs and LSTMs to categorize scene images with multi-views and multi-levels of abstraction](https://www.sciencedirect.com/science/article/pii/S0957417418305700)”,  
+ “[Coordinate CNNs and LSTMs to categorize scene images with multi-views and multi-levels of abstraction](https://www.sciencedirect.com/science/article/pii/S0957417418305700)”, 
  *Expert Systems with Applications, Volume 120, 15 Apr. 2019, Pages 298-309. (IF:5.452)*
 * **Shan An**, Si Liu, Zhibiao Huang , Guangfu Che , Qian Bao , Zhaoqi Zhu , Yu Chen , and   Dennis Z. Weng,   
  “[RotateView: A video composition system for interactive product display](https://ieeexplore.ieee.org/document/8721552)”,   
