@@ -21,19 +21,19 @@ Conference Publications
  “[Real-time Monocular Human Depth Estimation and Segmentation on Embedded Systems](https://arxiv.org/abs/2108.10506v1)”,   
 *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021*.
 * Konstantinos A. Tsintotas, Loukas Bampis, **Shan An**, George F. Fragulis, Spyridon G. Mouroutsos, and Antonios Gasteratos,  
- “Sequence-based mapping for probabilistic visual loop closure detection”,  
+ “[Sequence-based mapping for probabilistic visual loop closure detection](https://ieeexplore.ieee.org/document/9651458)”,  
  *IEEE international conference on imaging systems and techniques (IST), 2021*.
 * Hongxiang Gao, **Shan An**, Jianqing Li, and Chengyu Liu,   
- “Deep Balanced Learning for Long-tailed Facial Expressions Recognition”,  
+ “[Deep Balanced Learning for Long-tailed Facial Expressions Recognition](https://ieeexplore.ieee.org/document/9561155)”,  
  *International Conference on Robotics and Automation (ICRA), 2021*.
 * Peng Wang, Zheng Fang, Shibo Zhao, Yongnan Chen, Ming Zhou, and **Shan An**,   
- “Vanishing Point Aided LiDAR-Visual-Inertial Estimator”,  
+ “[Vanishing Point Aided LiDAR-Visual-Inertial Estimator](https://ieeexplore.ieee.org/document/9561087)”,  
  *International Conference on Robotics and Automation (ICRA), 2021*.
 * **Shan An**, Jing Lv, Haogang Zhu, Jingyi Wang, Xiaoxue Zhou, Qining Liu, Yier Shu, Zhengyu Liu, Yingying Zhang, Xiangyu Liu, and Yihua He,   
- “Fetal Heart and Descending Aorta Detection in Four-Chamber View of Fetal Echocardiography”,  
+ “[Fetal Heart and Descending Aorta Detection in Four-Chamber View of Fetal Echocardiography](https://ieeexplore.ieee.org/document/9630562)”,  
  *43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2021.* 
 * **Shan An**, Xiaoxue Zhou, Haogang Zhu, Fangru Zhou, Yuduo Wu, Tingyang Yang, Xiangyu Liu, Yingying Zhang, Zhicheng Jiao, and Yihua He,   
- “Simultaneous Segmentation of Four Cardiac Chambers in Fetal Echocardiography”,   
+ “[Simultaneous Segmentation of Four Cardiac Chambers in Fetal Echocardiography](https://ieeexplore.ieee.org/document/9629908)”,   
  *43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2021*.
 * Yuqing Ma, Shihao Bai, **Shan An**, Wei Liu, Aishan Liu, Xiantong Zhen, and Xianglong Liu,  
  “[Transductive Relation-Propagation Network for Few-shot Learning](https://www.ijcai.org/proceedings/2020/112)”,  
