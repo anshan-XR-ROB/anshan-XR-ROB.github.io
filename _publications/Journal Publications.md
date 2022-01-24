@@ -13,10 +13,7 @@ Journal Publications
  submitted to *Engineering*.
 * Xianglong Liu, Shihao Bai, Yuqing Ma, **Shan An**, Shuo Wang, Wei Liu, and Xiaowei Zhao,   
  “A Meaningful Learning Framework for Zero-shot Semantic Segmentation”,   
- submitted to *IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)*
- * Mengzhu Wang, **Shan An**, Shanshan Wang, Tianyi Liang, and Zhigang Luo,   
- “Domain-Specific Feature Recalibration and Alignment for Multi-Source Unsupervised Domain Adaptation”,   
- submitted to *Information Sciences*.
+ submitted to *IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)*.
 * Mengzhu Wang, Paul Li, **Shan An**, Shanshan Wang, Wei Wang, Xiang Zhang, Junyang Chen, Wei Yu, and Zhigang Luo,   
  “Informative Pairs Mining based Adaptive Metric Learning for Adversarial Domain Adaptation”,   
  submitted to *Neural Networks*.
