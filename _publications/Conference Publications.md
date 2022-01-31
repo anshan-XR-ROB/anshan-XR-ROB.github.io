@@ -10,7 +10,7 @@ Conference Publications
 ======
 * Mengzhu Wang, **Shan An**, Wei Yu, Lu Gui, Junyang Chen, and Zhigang Luo,  
  “Attention-based Adversarial Partial Domain Adaptation”,   
- submitted to *International Conference on Acoustics, Speech, & Signal Processing (ICASSP) 2022*.
+ *International Conference on Acoustics, Speech, & Signal Processing (ICASSP) 2022*.
 * **Shan An**, Dong Wei, Xiajie Zhang, Jiaxin Tian,Jianyu Yang, Konstantinos A. Tsintotas, and Haogang Zhu,  
   “Dual Regression for Efficient Hand Pose Estimation”,   
   submitted to *International Conference on Robotics and Automation (ICRA), 2022*.
