@@ -16,7 +16,7 @@ Journal Publications
  submitted to *IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)*.
 * Mengzhu Wang, Paul Li, **Shan An**, Shanshan Wang, Wei Wang, Xiang Zhang, Junyang Chen, Wei Yu, and Zhigang Luo,   
  “Informative Pairs Mining based Adaptive Metric Learning for Adversarial Domain Adaptation”,   
- submitted to *Neural Networks*.
+ *Neural Networks 2022*.
 * **Shan An**, Haogang Zhu, Dong Wei, Konstantinos A. Tsintotas, and Antonios Gasteratos,   
  “[Fast and Incremental Loop Closure Detection with Deep Features and Proximity Graphs](https://arxiv.org/abs/2010.11703)”,  
   *Journal of Field Robotics,2022*. 
