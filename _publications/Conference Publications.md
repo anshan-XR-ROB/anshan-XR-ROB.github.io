@@ -13,7 +13,7 @@ Conference Publications
  *International Conference on Acoustics, Speech, & Signal Processing (ICASSP) 2022*.
 * **Shan An**, Dong Wei, Xiajie Zhang, Jiaxin Tian,Jianyu Yang, Konstantinos A. Tsintotas, and Haogang Zhu,  
   “Dual Regression for Efficient Hand Pose Estimation”,   
-  submitted to *International Conference on Robotics and Automation (ICRA), 2022*.
+  *International Conference on Robotics and Automation (ICRA), 2022*.
 * **Shan An**, Guangfu Che, Jinghao Guo, Haogang Zhu, Junjie Ye, Fangru Zhou, Zhaoqi Zhu , Dong Wei, Aishan Liu, and Wei Zhang,  
 “[ARShoe: Real-Time Augmented Reality Shoe Try-on System on Smartphones](https://arxiv.org/abs/2108.10515v1)”,  
   *ACM Multimedia, 2021*.
