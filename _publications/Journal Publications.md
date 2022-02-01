@@ -18,7 +18,7 @@ Journal Publications
  “Informative Pairs Mining based Adaptive Metric Learning for Adversarial Domain Adaptation”,   
  *Neural Networks 2022*.
 * **Shan An**, Haogang Zhu, Dong Wei, Konstantinos A. Tsintotas, and Antonios Gasteratos,   
- “[Fast and Incremental Loop Closure Detection with Deep Features and Proximity Graphs](https://arxiv.org/abs/2010.11703)”,  
+ “[Fast and Incremental Loop Closure Detection with Deep Features and Proximity Graphs](https://onlinelibrary.wiley.com/doi/10.1002/rob.22060)”,  
   *Journal of Field Robotics,2022*. 
 * **Shan An**, Xiajie Zhang, Dong Wei, , Haogang Zhu，Jianyu Yang, and Konstantinos A. Tsintotas,   
  “[FastHand: Fast Monocular Hand Pose Estimation on Embedded Systems](https://www.sciencedirect.com/science/article/abs/pii/S1383762121002514)”,  
