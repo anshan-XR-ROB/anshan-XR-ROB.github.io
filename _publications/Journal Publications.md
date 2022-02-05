@@ -31,7 +31,7 @@ Journal Publications
  *Computerized Medical Imaging and Graphics, 2021*. 
 * Junjie Ye, Changhong Fu, Fuling Lin, Fangqiang Ding, **Shan An**, and Geng Lu,   
  “[Multi-Regularized Correlation Filter for UAV Tracking and Self-Localization](https://ieeexplore.ieee.org/abstract/document/9457090)”,   
-  *IEEE Transactions on Industrial Electronics (T-IE), 2021. (IF:8.236).*
+  *IEEE Transactions on Industrial Electronics (T-IE), 2021. (IF:8.236), Volume 69, Jun. 2022, Pages 6004-6014.*
 * Chang Tang, Xinwang Liu, **Shan An**, and Pichao Wang,   
  “[BR2Net: Defocus Blur Detection via Bi-directional Channel Attention Residual Refining Network](https://ieeexplore.ieee.org/document/9057632)”,    
  *IEEE Transactions on Multimedia (TMM), Volume 23, Apr. 2020, Pages 624-635. (IF:6.513).*
