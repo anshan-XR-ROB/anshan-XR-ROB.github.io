@@ -20,15 +20,15 @@ Journal Publications
 * **Shan An**, Haogang Zhu, Dong Wei, Konstantinos A. Tsintotas, and Antonios Gasteratos,   
  “[Fast and Incremental Loop Closure Detection with Deep Features and Proximity Graphs](https://onlinelibrary.wiley.com/doi/10.1002/rob.22060)”,  
   *Journal of Field Robotics,2022*. 
-* **Shan An**, Xiajie Zhang, Dong Wei, , Haogang Zhu，Jianyu Yang, and Konstantinos A. Tsintotas,   
+* **Shan An**, Xiajie Zhang, Dong Wei, Haogang Zhu，Jianyu Yang, and Konstantinos A. Tsintotas,   
  “[FastHand: Fast Monocular Hand Pose Estimation on Embedded Systems](https://www.sciencedirect.com/science/article/abs/pii/S1383762121002514)”,  
- *Journal of Systems Architecture, 2022*.
+ *Journal of Systems Architecture, 2022, Volume 122, Jan. 2022, Pages 102361*.
 * Junjie Ye, Changhong Fu, Ziang Cao, **Shan An**, Guangze Zheng , and Bowen Li,  
  “Tracker Meets Night: A Transformer Enhancer for UAV Tracking”,   
  *IEEE Robotics and Automation Letters(RA-L) ,2022*.
 * **Shan An**, Haogang Zhu, Yuanshuai Wang, Fangru Zhou, Xiaoxue Zhou, Xu Yang, Yingying Zhang, Xiangyu Liu,Zhicheng Jiao, and Yihua He,  
  “[A Category Attention Instance Segmentation Network for Four Cardiac Chambers Segmentation in Fetal Echocardiography](https://www.sciencedirect.com/science/article/pii/S0895611121001324)”,   
- *Computerized Medical Imaging and Graphics, 2021*. 
+ *Computerized Medical Imaging and Graphics, 2021, Volume 193, Oct. 2021, Pages 101983 *. 
 * Junjie Ye, Changhong Fu, Fuling Lin, Fangqiang Ding, **Shan An**, and Geng Lu,   
  “[Multi-Regularized Correlation Filter for UAV Tracking and Self-Localization](https://ieeexplore.ieee.org/abstract/document/9457090)”,   
   *IEEE Transactions on Industrial Electronics (T-IE), 2021. (IF:8.236), Volume 69, Jun. 2022, Pages 6004-6014.*
