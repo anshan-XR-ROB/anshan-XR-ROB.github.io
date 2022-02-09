@@ -31,13 +31,13 @@ Journal Publications
  *Computerized Medical Imaging and Graphics, Volume 193, Oct. 2021, Pages 101983*. 
 * Junjie Ye, Changhong Fu, Fuling Lin, Fangqiang Ding, **Shan An**, and Geng Lu,   
  “[Multi-Regularized Correlation Filter for UAV Tracking and Self-Localization](https://ieeexplore.ieee.org/abstract/document/9457090)”,   
-  *IEEE Transactions on Industrial Electronics (T-IE), 2021. (IF:8.236), Volume 69, Jun. 2022, Pages 6004-6014.*
+  *IEEE Transactions on Industrial Electronics (T-IE), Volume 69, Jun. 2022, Pages 6004-6014. (IF:8.236).*
 * Chang Tang, Xinwang Liu, **Shan An**, and Pichao Wang,   
  “[BR2Net: Defocus Blur Detection via Bi-directional Channel Attention Residual Refining Network](https://ieeexplore.ieee.org/document/9057632)”,    
  *IEEE Transactions on Multimedia (TMM), Volume 23, Apr. 2020, Pages 624-635. (IF:6.513).*
 * Shuang Bai, Huadong Tang, and **Shan An**,   
  “[Coordinate CNNs and LSTMs to categorize scene images with multi-views and multi-levels of abstraction](https://www.sciencedirect.com/science/article/pii/S0957417418305700)”, 
- *Expert Systems with Applications, Volume 120, 15 Apr. 2019, Pages 298-309. (IF:5.452)*
+ *Expert Systems with Applications, Volume 120, 15 Apr. 2019, Pages 298-309. (IF:5.452).*
 * **Shan An**, Si Liu, Zhibiao Huang , Guangfu Che , Qian Bao , Zhaoqi Zhu , Yu Chen , and   Dennis Z. Weng,   
  “[RotateView: A video composition system for interactive product display](https://ieeexplore.ieee.org/document/8721552)”,   
  *IEEE Transactions on Multimedia (TMM)，Volume 21, Dec. 2019, Pages 3095-3105. (IF:6.513)*.
