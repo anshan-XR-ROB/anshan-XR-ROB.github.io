@@ -36,7 +36,7 @@ Journal Publications
  “[BR2Net: Defocus Blur Detection via Bi-directional Channel Attention Residual Refining Network](https://ieeexplore.ieee.org/document/9057632)”,    
  *IEEE Transactions on Multimedia (TMM), Volume 23, Apr. 2020, Pages 624-635. (IF:6.513).*
 * Shuang Bai, Huadong Tang, and **Shan An**,   
- “[Coordinate CNNs and LSTMs to categorize scene images with multi-views and multi-levels of abstraction](https://www.sciencedirect.com/science/article/pii/S0957417418305700)”, 
+ “[Coordinate CNNs and LSTMs to categorize scene images with multi-views and multi-levels of abstraction](https://www.sciencedirect.com/science/article/pii/S0957417418305700)”,  
  *Expert Systems with Applications, Volume 120, 15 Apr. 2019, Pages 298-309. (IF:5.452).*
 * **Shan An**, Si Liu, Zhibiao Huang , Guangfu Che , Qian Bao , Zhaoqi Zhu , Yu Chen , and   Dennis Z. Weng,   
  “[RotateView: A video composition system for interactive product display](https://ieeexplore.ieee.org/document/8721552)”,   
