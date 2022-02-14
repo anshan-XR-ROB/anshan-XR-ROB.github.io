@@ -49,3 +49,4 @@ redirect_from:
 * IEEE International Conference on Multimedia and Expo (ICME), 2021.
 * IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2021.
 * 36th AAAI Conference on Artificial Intelligence (AAAI), 2022. 
+* Soft Computing. 
