@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shan An "
+title                    : "-- "
 title_separator          : "-"
 name                     : &name "Shan An"
 description              : &description "personal description"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shan An"
-  avatar           : "profile.png"
-  bio              : "I am an IEEE Senior Member, and a member of CCF/CSIG/ACM. I lead the JD-AR Vision Learning Group since 2019. 
-                     Our group seeks to solve practical problems in augmented reality using computer vision techniques. We study the visual perception and interaction of human bodies, objects, and scenes."
-  location         : "Beijing, China"
-  employer         : "JD.COM Inc."
+  name             : "--"
+  avatar           : 
+  bio              : " 
+                       "
+  location         : ""
+  employer         : ""
   pubmed           :  
-  googlescholar    : "https://scholar.google.co.uk/citations?user=2pDQKYkAAAAJ&hl=zh-CN"
-  email            : "anshan.tju@gmail.com"
+  googlescholar    : ""
+  email            : ""
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
