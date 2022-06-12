@@ -10,7 +10,7 @@ Journal Publications
 ======
 * Hongxiang Gao, Zhenghua Chen, Yuwen Li, Xingyao Wang, **Shan An**, Jianqing Li, and Chengyu Liu,   
  “Multi-domain Adaptive Attention Combined Long-tailed Continual Learning for Facial Expression Recognition”,   
- submitted to *Engineering*.
+ submitted to *Neural Networks*.
 * Xianglong Liu, Shihao Bai, Yuqing Ma, **Shan An**, Shuo Wang, Wei Liu, and Xiaowei Zhao,   
  “A Meaningful Learning Framework for Zero-shot Semantic Segmentation”,   
  submitted to *IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)*.
