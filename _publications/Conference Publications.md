@@ -10,7 +10,7 @@ Conference Publications
 ======
 * Konstantinos A. Tsintotas, **Shan An**, Ioannis Tsampikos Papapetros, Fotios K. Konstantinidis, Georgios Ch. Sirakoulis, and Antonios Gasteratos,      
  “Dimensionality reduction through visual data resampling for low-storage loop-closure detection”,         
- *2022 IEEE International Conference on Imaging Systems and Techniques (IST)*.
+ *IEEE International Conference on Imaging Systems and Techniques (IST) 2022*.
 * Mengzhu Wang, **Shan An**, Wei Yu, Lu Gui, Junyang Chen, and Zhigang Luo,  
  “Attention-based Adversarial Partial Domain Adaptation”,   
  *International Conference on Acoustics, Speech, & Signal Processing (ICASSP) 2022*.
