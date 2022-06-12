@@ -8,10 +8,13 @@ redirect_from:
 ---
 Conference Publications
 ======
+* Konstantinos A. Tsintotas, **Shan An**, Ioannis Tsampikos Papapetros, Fotios K. Konstantinidis, Georgios Ch. Sirakoulis, and Antonios Gasteratos,      
+ “Dimensionality reduction through visual data resampling for low-storage loop-closure detection”,         
+ *IEEE International Conference on Imaging Systems and Techniques (IST), 2022*.
 * Mengzhu Wang, **Shan An**, Wei Yu, Lu Gui, Junyang Chen, and Zhigang Luo,  
  “Attention-based Adversarial Partial Domain Adaptation”,   
- *International Conference on Acoustics, Speech, & Signal Processing (ICASSP) 2022*.
-* **Shan An**, Dong Wei, Xiajie Zhang, Jiaxin Tian,Jianyu Yang, Konstantinos A. Tsintotas, and Haogang Zhu,  
+ *International Conference on Acoustics, Speech, & Signal Processing (ICASSP), 2022*.
+* Dong Wei, **Shan An**, Xiajie Zhang, Jiaxin Tian,Jianyu Yang, Konstantinos A. Tsintotas, and Haogang Zhu,  
   “Dual Regression for Efficient Hand Pose Estimation”,   
   *International Conference on Robotics and Automation (ICRA), 2022*.
 * **Shan An**, Guangfu Che, Jinghao Guo, Haogang Zhu, Junjie Ye, Fangru Zhou, Zhaoqi Zhu , Dong Wei, Aishan Liu, and Wei Zhang,  
@@ -43,7 +46,7 @@ Conference Publications
  *IEEE 17th International Symposium on Biomedical Imaging (ISBI), 2020.*
 * **Shan An**, Zhibiao Huang, Guangfu Che, Xianglong Liu, Xin Ma, and Yu Chen,  
 “[Quarter-point Codeword Expansion for Product Quantization](https://ieeexplore.ieee.org/document/8784842)”,  
-  *IEEE International Conference on Multimedia and Expo (ICME) 2019.*
+  *IEEE International Conference on Multimedia and Expo (ICME), 2019.*
 * **Shan An**, Guangfu Che, Fangru Zhou, Xianglong Liu, Xin Ma, and Yu Chen,  
  “[Fast and Incremental Loop Closure Detection using Proximity Graphs](https://ieeexplore.ieee.org/document/8968043)”,  
  *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2019.*
