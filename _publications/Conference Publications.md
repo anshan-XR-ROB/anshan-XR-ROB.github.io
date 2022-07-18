@@ -12,7 +12,7 @@ Conference Publications
  “Dimensionality reduction through visual data resampling for low-storage loop-closure detection”,         
  *IEEE International Conference on Imaging Systems and Techniques (IST), 2022*.
 * Mengzhu Wang, **Shan An**, Wei Yu, Lu Gui, Junyang Chen, and Zhigang Luo,  
- “Attention-based Adversarial Partial Domain Adaptation”,   
+ “[Attention-based Adversarial Partial Domain Adaptation](https://ieeexplore.ieee.org/document/9747532)”,   
  *International Conference on Acoustics, Speech, & Signal Processing (ICASSP), 2022*.
 * Dong Wei, **Shan An**, Xiajie Zhang, Jiaxin Tian,Jianyu Yang, Konstantinos A. Tsintotas, and Haogang Zhu,  
   “Dual Regression for Efficient Hand Pose Estimation”,   
