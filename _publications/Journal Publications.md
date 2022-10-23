@@ -13,7 +13,7 @@ Journal Publications
  submitted to *Neural Networks*.
 * Xianglong Liu, Shihao Bai, Yuqing Ma, **Shan An**, Shuo Wang, Wei Liu, and Xiaowei Zhao,   
  “A Meaningful Learning Framework for Zero-shot Semantic Segmentation”,   
- submitted to *IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)*.
+ submitted to *IEEE Transactions on Neural Networks and Learning Systems*.
 * **Shan An**, Jianye Chen, Zhaoqi Zhu, Fangru Zhou, Yuxing Yang, Yuqing Ma, Xianglong Liu, and Haogang Zhu,   
  “ARCosmetics: A Real-Time Augmented Reality Cosmetics Try-on System”,   
  *Frontiers of Computer Science, 2022*.
@@ -21,7 +21,7 @@ Journal Publications
  “[Deep Tri-Training for Semi-Supervised Image Segmentation](https://ieeexplore.ieee.org/document/9804753)”,   
  *IEEE Robotics and Automation Letters with IROS presentation, 2022.*.
 * Tingyang Yang, Ye Zhang, Mengxiao Zhu, Yan Wang, **Shan An**, Xiaoyan Gu, Xiaowei Liu, Jiancheng Han, Yihe Hua, and Haogang Zhu,   
- “Segmentation of Ten Fetal Heart Components with Coarse-to-fine Cascading and Dynamic Feature Powering”,   
+ “[Segmentation of Ten Fetal Heart Components with Coarse-to-fine Cascading and Dynamic Feature Powering](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.12597)”,   
  *IET Image Processing, 2022*.
 * **Shan An**, Haogang Zhu, Dong Wei, Konstantinos A. Tsintotas, and Antonios Gasteratos,   
  “[Fast and Incremental Loop Closure Detection with Deep Features and Proximity Graphs](https://onlinelibrary.wiley.com/doi/10.1002/rob.22060)”,  
