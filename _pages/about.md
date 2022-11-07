@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shan An / JD-AR Vision Learning Group"
+title: "Shan An / JD Health"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am the team leader of the JD-AR Vision Learning Group, JD.COM Inc. Before that, I worked for the China Academy of Space Technology as a software engineer from 2010 to 2013, and worked for Taobao.COM Inc. of Alibaba Group as a senior algorithm engineer from 2013 to 2016. I received a Bachelor's degree in automation engineering from Tianjin University, China, in 2007 and a Master's degree in control science from Shandong University, China, in 2010.
+He currently leads the computer vision algorithm direction at JD Health. Before that, I worked for the China Academy of Space Technology as a software engineer from 2010 to 2013, and worked for Taobao.COM Inc. of Alibaba Group as a senior algorithm engineer from 2013 to 2016. I received a Bachelor's degree in automation engineering from Tianjin University, China, in 2007 and a Master's degree in control science from Shandong University, China, in 2010.
 
 Current Research Interests
 ======
