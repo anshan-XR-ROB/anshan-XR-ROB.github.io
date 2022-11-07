@@ -8,6 +8,9 @@ redirect_from:
 ---
 Conference Publications
 ======
+* Fukai Zhang, Xiaobo Jin, Jiacao Li, Lin He, **Shan An**, Yongqiang Zheng, Shilai Yi, and Qiang Lyu,      
+ “WCANet: Wavelet Channel Attention Network for Citrus Variety Idenfication”,         
+ submitted to *International Conference on Acoustics, Speech, & Signal Processing (ICASSP), 2023*.
 * Konstantinos A. Tsintotas, **Shan An**, Ioannis Tsampikos Papapetros, Fotios K. Konstantinidis, Georgios Ch. Sirakoulis, and Antonios Gasteratos,      
  “Dimensionality reduction through visual data resampling for low-storage loop-closure detection”,         
  *IEEE International Conference on Imaging Systems and Techniques (IST), 2022*.

@@ -14,6 +14,12 @@ Journal Publications
 * Xianglong Liu, Shihao Bai, Yuqing Ma, **Shan An**, Shuo Wang, Wei Liu, and Xiaowei Zhao,   
  “A Meaningful Learning Framework for Zero-shot Semantic Segmentation”,   
  submitted to *IEEE Transactions on Neural Networks and Learning Systems*.
+* Tingyang Yang, Jingshuang Xu, Mengxiao Zhu, **Shan An**, Ming Gong, and Haogang Zhu,   
+ “FedZaCt: Federated Learning with Z average and Cross teaching on Image Segmentation”,   
+ *MDPI Electronics*.
+* Lin Ge, Bo Lv, Na Li, **Shan An**, and Feiyue Wang,   
+ “A Hypertension Parallel Healthcare System Based on the ACP Approach”,   
+ *IEEE Journal of Radio Frequency Identification, 2022*.
 * **Shan An**, Jianye Chen, Zhaoqi Zhu, Fangru Zhou, Yuxing Yang, Yuqing Ma, Xianglong Liu, and Haogang Zhu,   
  “ARCosmetics: A Real-Time Augmented Reality Cosmetics Try-on System”,   
  *Frontiers of Computer Science, 2022*.
