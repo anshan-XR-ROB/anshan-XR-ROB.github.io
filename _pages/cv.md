@@ -13,11 +13,14 @@ Education
 ======
 * B.S. in Automation Engineering, Tianjin University, China, 2007
 * M.S. in Control Science and Engineering, Shandong University, China, 2014
-* Ph.D in Software Engineering, Beihang University, China, 2023 (expected)
+* Ph.D in Software Engineering, Beihang University, China, 2023
 
 Work experience
 ======
-* Feb. 2016 - present: Leader of the Vision Learning Goup, Tech. and Data Center
+* May. 2022 - present:  Head of Computer Vision and Signal Processing
+  * JD Health International Inc., Beijing, China
+
+* Feb. 2016 - Apr. 2022: Leader of the Vision Learning Goup, Tech. and Data Center
   * JD.COM Inc., Beijing, China
 
 * Aug. 2013 - Feb. 2016: Senior Algorithm Engineer
