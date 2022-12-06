@@ -13,7 +13,7 @@ Journal Publications
  submitted to *Neural Networks*.
 * Xianglong Liu, Shihao Bai, Yuqing Ma, **Shan An**, Shuo Wang, Wei Liu, and Xiaowei Zhao,   
  “A Meaningful Learning Framework for Zero-shot Semantic Segmentation”,   
- submitted to *IEEE Transactions on Neural Networks and Learning Systems*.
+ submitted to *SCIENCE CHINA Information Sciences*.
 * Tingyang Yang, Jingshuang Xu, Mengxiao Zhu, **Shan An**, Ming Gong, and Haogang Zhu,   
  “FedZaCt: Federated Learning with Z average and Cross teaching on Image Segmentation”,   
  *MDPI Electronics*.
