@@ -12,13 +12,13 @@ Conference Publications
  “WCANet: Wavelet Channel Attention Network for Citrus Variety Idenfication”,         
  submitted to *International Conference on Acoustics, Speech, & Signal Processing (ICASSP), 2023*.
 * Konstantinos A. Tsintotas, **Shan An**, Ioannis Tsampikos Papapetros, Fotios K. Konstantinidis, Georgios Ch. Sirakoulis, and Antonios Gasteratos,      
- “Dimensionality reduction through visual data resampling for low-storage loop-closure detection”,         
+ “[Dimensionality reduction through visual data resampling for low-storage loop-closure detection](https://ieeexplore.ieee.org/document/9827748)”,         
  *IEEE International Conference on Imaging Systems and Techniques (IST), 2022*.
 * Mengzhu Wang, **Shan An**, Wei Yu, Lu Gui, Junyang Chen, and Zhigang Luo,  
  “[Attention-based Adversarial Partial Domain Adaptation](https://ieeexplore.ieee.org/document/9747532)”,   
  *International Conference on Acoustics, Speech, & Signal Processing (ICASSP), 2022*.
 * Dong Wei, **Shan An**, Xiajie Zhang, Jiaxin Tian,Jianyu Yang, Konstantinos A. Tsintotas, and Haogang Zhu,  
-  “Dual Regression for Efficient Hand Pose Estimation”,   
+  “[Dual Regression for Efficient Hand Pose Estimation](https://ieeexplore.ieee.org/document/9812217)”,   
   *International Conference on Robotics and Automation (ICRA), 2022*.
 * **Shan An**, Guangfu Che, Jinghao Guo, Haogang Zhu, Junjie Ye, Fangru Zhou, Zhaoqi Zhu , Dong Wei, Aishan Liu, and Wei Zhang,  
 “[ARShoe: Real-Time Augmented Reality Shoe Try-on System on Smartphones](https://arxiv.org/abs/2108.10515v1)”,  

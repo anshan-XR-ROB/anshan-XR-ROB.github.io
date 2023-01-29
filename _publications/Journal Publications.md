@@ -10,18 +10,18 @@ Journal Publications
 ======
 * Hongxiang Gao, Zhenghua Chen, Yuwen Li, Xingyao Wang, **Shan An**, Jianqing Li, and Chengyu Liu,   
  “Multi-domain Adaptive Attention Combined Long-tailed Continual Learning for Facial Expression Recognition”,   
- submitted to *Neural Networks*.
+ *Neural Networks*.
 * Xianglong Liu, Shihao Bai, Yuqing Ma, **Shan An**, Shuo Wang, Wei Liu, and Xiaowei Zhao,   
  “A Meaningful Learning Framework for Zero-shot Semantic Segmentation”,   
  submitted to *IEEE Transactions on Neural Networks and Learning Systems*.
 * Tingyang Yang, Jingshuang Xu, Mengxiao Zhu, **Shan An**, Ming Gong, and Haogang Zhu,   
- “FedZaCt: Federated Learning with Z average and Cross teaching on Image Segmentation”,   
+ “[FedZaCt: Federated Learning with Z average and Cross teaching on Image Segmentation](https://www.mdpi.com/2079-9292/11/20/3262)”,   
  *MDPI Electronics*.
 * Lin Ge, Bo Lv, Na Li, **Shan An**, and Feiyue Wang,   
- “A Hypertension Parallel Healthcare System Based on the ACP Approach”,   
+ “[A Hypertension Parallel Healthcare System Based on the ACP Approach](https://ieeexplore.ieee.org/abstract/document/9920197)”,   
  *IEEE Journal of Radio Frequency Identification, 2022*.
 * **Shan An**, Jianye Chen, Zhaoqi Zhu, Fangru Zhou, Yuxing Yang, Yuqing Ma, Xianglong Liu, and Haogang Zhu,   
- “ARCosmetics: A Real-Time Augmented Reality Cosmetics Try-on System”,   
+ “[ARCosmetics: A Real-Time Augmented Reality Cosmetics Try-on System](https://link.springer.com/article/10.1007/s11704-022-2059-8)”,   
  *Frontiers of Computer Science, 2022*.
 * **Shan An**, Haogang Zhu, Jiaao Zhang, Junjie Ye, Siliang Wang, Jianqin Yin, and Hong Zhang,   
  “[Deep Tri-Training for Semi-Supervised Image Segmentation](https://ieeexplore.ieee.org/document/9804753)”,   
