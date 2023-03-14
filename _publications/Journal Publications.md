@@ -10,13 +10,13 @@ Journal Publications
 ======
 * Hongxiang Gao, Min Wu, Zhenghua Chen, Yuwen Li, Xingyao Wang, **Shan An**, Jianqing Li, and Chengyu Liu,   
  [“SSA-ICL: Multi-domain adaptive attention with intra-dataset continual learning for Facial expression recognition”](https://www.sciencedirect.com/science/article/pii/S089360802200466X),   
- *Neural Networks*.
+ *Neural Networks, 2023*.
 * Xianglong Liu, Shihao Bai, Yuqing Ma, **Shan An**, Shuo Wang, Wei Liu, and Xiaowei Zhao,   
  “A Meaningful Learning Framework for Zero-shot Semantic Segmentation”,   
  submitted to *SCIENCE CHINA Information Sciences*.
 * Tingyang Yang, Jingshuang Xu, Mengxiao Zhu, **Shan An**, Ming Gong, and Haogang Zhu,   
  “[FedZaCt: Federated Learning with Z average and Cross teaching on Image Segmentation](https://www.mdpi.com/2079-9292/11/20/3262)”,   
- *MDPI Electronics*.
+ *MDPI Electronics, 2022*.
 * Lin Ge, Bo Lv, Na Li, **Shan An**, and Feiyue Wang,   
  “[A Hypertension Parallel Healthcare System Based on the ACP Approach](https://ieeexplore.ieee.org/abstract/document/9920197)”,   
  *IEEE Journal of Radio Frequency Identification, 2022*.
