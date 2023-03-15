@@ -28,12 +28,19 @@ redirect_from:
 * AAAI Conference on Artificial Intelligence, 2022.  
   
 # Reviewer  #
-**Journal Reviewer**
+**Journal Reviewer**  
 
-- IEEE Transactions on Neural Networks and Learning Systems.
-- IEEE Transactions on Multimedia.
-- IEEE Journal of Biomedical and Health Informatics.
-- Skin lesion analysis, tongue and facial diagnosis in traditional Chinese medicine
+* IEEE Transactions on Neural Networks and Learning Systems.
+* IEEE Transactions on Multimedia.
+* IEEE Journal of Biomedical and Health Informatics.
+* IEEE Signal Processing Letters.
+* IEEE Transactions on Medical Imaging.
+* Pattern Recognition.
+* Pattern Recognition Letters. 
+* Frontiers of Computer Science.
+* IET Image Processing.
+* Computational Intelligence and Neuroscience.
+* Soft Computing.   
 
 **Conference Reviewer**  
 
