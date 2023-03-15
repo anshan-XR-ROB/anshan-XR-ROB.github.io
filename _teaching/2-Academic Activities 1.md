@@ -41,18 +41,18 @@ redirect_from:
 * Soft Computing.  
   
 # Conference Reviewer #
-* IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2019, 2021, 2022, 2023.
-* IEEE International Conference on Advanced Robotics and Mechatronics (ICARM), 2019.
-* ACM International Conference on Multimedia (MM), 2019, 2020, 2021, 2022, 2023.
-* ACM Multimedia Asia, 2019, 2021.
-* International Conference on Pattern Recognition (ICPR), 2021.
 * IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021, 2022, 2023.
-* International Joint Conference on Artificial Intelligence (IJCAI), 2021, 2022, 2023.
+* Association for the Advancement of Artificial Intelligence (AAAI), 2022, 2023.
+* ACM International Conference on Multimedia (MM), 2019, 2020, 2021, 2022, 2023.
 * IEEE International Conference on Computer Vision (ICCV), 2021.
-* IEEE International Conference on Robotics and Automation (ICRA), 2021, 2022, 2023.
-* IEEE International Symposium on Biomedical Imaging (ISBI), 2021，2022, 2023.
+* International Joint Conference on Artificial Intelligence (IJCAI), 2021, 2022, 2023.
 * IEEE International Conference on Multimedia and Expo (ICME), 2021, 2022, 2023.
-* IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2021.
-* Association for the Advancement of Artificial Intelligence (AAAI), 2022, 2023. 
+* IEEE International Conference on Robotics and Automation (ICRA), 2021, 2022, 2023.
+* IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2019, 2021, 2022, 2023.
+* International Conference on Pattern Recognition (ICPR), 2021.
+* IEEE International Conference on Advanced Robotics and Mechatronics (ICARM), 2019.
+* ACM Multimedia Asia, 2019, 2021. 
+* IEEE International Symposium on Biomedical Imaging (ISBI), 2021，2022, 2023.
+* IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2021. 
 
 
