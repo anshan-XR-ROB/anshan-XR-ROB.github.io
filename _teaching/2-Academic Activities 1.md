@@ -39,6 +39,7 @@ redirect_from:
 * IET Image Processing.
 * Computational Intelligence and Neuroscience.
 * Soft Computing.
+
 # Conference Reviewer  #
 * IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2019, 2021, 2022, 2023.
 * IEEE International Conference on Advanced Robotics and Mechatronics (ICARM), 2019.
