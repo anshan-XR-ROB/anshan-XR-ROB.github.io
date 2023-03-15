@@ -12,26 +12,24 @@ Dr. Shan An received a Bachelor's degree in Automation Engineering from Tianjin 
 
 Current Research Interests
 ======
-Our group specializes in human perception, environment perception, and augmented reality, especially as applied to the field of consumer intelligence. 
+Our group specializes in human perception, environment perception, and augmented reality, especially as applied to the field of consumer intelligence and medical AI. 
 
 **Human Body Perception**
 
 - Face detection, recognition and synthesis
 - Face / Foot landmark detection
-- Hand pose estimation and gesture recognition
-- Human pose estimation
+- Hand / Human pose estimation and gesture recognition
+- Skin lesion analysis, tongue and facial diagnosis in traditional Chinese medicine
 
 **Scene Perception**
 
 - Visual SLAM and Place recognition 
 - Depth Estimation 
-- Domain adaptation for scene understanding
 
 **Object Perception**
 
 - Content-based product image retrieval
 - Semantic and instance segmentation
-- Neural reconstruction
 
 
 
