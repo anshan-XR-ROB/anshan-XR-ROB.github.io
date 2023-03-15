@@ -29,7 +29,6 @@ redirect_from:
   
 # Reviewer  #
   
-
 **Journal Reviewer**
 
 * IEEE Transactions on Neural Networks and Learning Systems.
