@@ -13,7 +13,7 @@ Journal Publications
  *Neural Networks, 2023*.
 * Xianglong Liu, Shihao Bai, Yuqing Ma, **Shan An**, Shuo Wang, Wei Liu, and Xiaowei Zhao,   
  “A Meaningful Learning Framework for Zero-shot Semantic Segmentation”,   
- submitted to *SCIENCE CHINA Information Sciences*.
+ *SCIENCE CHINA Information Sciences, 2023*.
 * Tingyang Yang, Jingshuang Xu, Mengxiao Zhu, **Shan An**, Ming Gong, and Haogang Zhu,   
  “[FedZaCt: Federated Learning with Z average and Cross teaching on Image Segmentation](https://www.mdpi.com/2079-9292/11/20/3262)”,   
  *MDPI Electronics, 2022*.
