@@ -8,8 +8,11 @@ redirect_from:
 ---
 Journal Publications
 ======
+* **Shan An**, Fangru Zhou, Mei Yang, Shuang Bai, Chang Tang, and Haogang Zhu,   
+ “[Learning an Insertion Region for Advertisement Embedding on Planes](https://www.sciencedirect.com/science/article/pii/S0923596523000450)”,   
+ *Signal Processing: Image Communication, 2023*.
 * Hongxiang Gao, Min Wu, Zhenghua Chen, Yuwen Li, Xingyao Wang, **Shan An**, Jianqing Li, and Chengyu Liu,   
- [“SSA-ICL: Multi-domain adaptive attention with intra-dataset continual learning for Facial expression recognition”](https://www.sciencedirect.com/science/article/pii/S089360802200466X),   
+ “[SSA-ICL: Multi-domain adaptive attention with intra-dataset continual learning for Facial expression recognition](https://www.sciencedirect.com/science/article/pii/S089360802200466X)”,   
  *Neural Networks, 2023*.
 * Xianglong Liu, Shihao Bai, Yuqing Ma, **Shan An**, Shuo Wang, Wei Liu, and Xiaowei Zhao,   
  “A Meaningful Learning Framework for Zero-shot Semantic Segmentation”,   
