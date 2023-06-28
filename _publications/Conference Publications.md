@@ -8,6 +8,13 @@ redirect_from:
 ---
 Conference Publications
 ======
+* **Shan An**, Guangfu Che, Jinghao Guo, Yanjie Xu, Guoxin Wang, Konstantinos A. Tsintotas, Fukai Zhang, Junjie Ye,
+Changhong Fu, Haogang Zhu, and Hong Zhang,      
+ “An Open-Source Robotic Chinese Chess Player”,  
+ *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) , 2023*.
+* Fukai Zhang, Xiaobo Jin, Jie Jiang, **Shan An**, and Qiang Lyu,      
+ “WCANet: Wavelet Channel Attention Network for citrus variety identification”,  
+ *IEEE International Conference on Image Processing (ICIP), 2023*.
 * Konstantinos A. Tsintotas, **Shan An**, Ioannis Tsampikos Papapetros, Fotios K. Konstantinidis, Georgios Ch. Sirakoulis, and Antonios Gasteratos,      
  “[Dimensionality reduction through visual data resampling for low-storage loop-closure detection](https://ieeexplore.ieee.org/document/9827748)”,         
  *IEEE International Conference on Imaging Systems and Techniques (IST), 2022*.
