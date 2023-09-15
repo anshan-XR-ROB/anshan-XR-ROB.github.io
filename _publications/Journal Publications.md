@@ -56,7 +56,7 @@ Journal Publications
 * **Shan An**, Si Liu, Zhibiao Huang , Guangfu Che , Qian Bao , Zhaoqi Zhu , Yu Chen , and   Dennis Z. Weng,   
  “[RotateView: A video composition system for interactive product display](https://ieeexplore.ieee.org/document/8721552)”,   
  *IEEE Transactions on Multimedia (TMM)，Volume 21, Dec. 2019, Pages 3095-3105. (IF:6.513)*.
-* **Shan An**, Zhibiao Huang, Shuang Bai, Guangfu Che , Xin Ma , Jie Luo , and Yu Che ,  
+* **Shan An**, Zhibiao Huang, Shuang Bai, Guangfu Che , Xin Ma , Jie Luo , and Yu Chen,  
  “[Quarter-point Product Quantization for Approximate Nearest Neighbor Search](https://www.sciencedirect.com/science/article/pii/S0167865519301242)”,   
   *Pattern Recognition Letters，Volume 125, 2019, Pages 187-194. (IF:3.756)*. 
 * Shuang Bai, and **Shan An**,   

@@ -39,7 +39,10 @@ redirect_from:
 * IET Image Processing.
 * Computational Intelligence and Neuroscience.
 * Soft Computing.
-* ISA Transactions  
+* ISA Transactions.
+* Robotics and Automation Letters.
+* Scientific Reports.
+* Frontiers in Robotics and AI.  
   
 # Conference Reviewer #
 * IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021, 2022, 2023.
