@@ -30,9 +30,12 @@ redirect_from:
 # Journal Reviewer #
 * IEEE Transactions on Neural Networks and Learning Systems.
 * IEEE Transactions on Multimedia.
-* IEEE Journal of Biomedical and Health Informatics.
-* IEEE Signal Processing Letters.
 * IEEE Transactions on Medical Imaging.
+* IEEE Transactions on Circuits and Systems for Video Technology.
+* IEEE Journal of Biomedical and Health Informatics.
+* IEEE Robotics & Automation Magazine.
+* IEEE Signal Processing Letters.
+* IEEE Robotics and Automation Letters.
 * Pattern Recognition.
 * Pattern Recognition Letters. 
 * Frontiers of Computer Science.
@@ -40,9 +43,12 @@ redirect_from:
 * Computational Intelligence and Neuroscience.
 * Soft Computing.
 * ISA Transactions.
-* Robotics and Automation Letters.
 * Scientific Reports.
-* Frontiers in Robotics and AI.  
+* Frontiers in Robotics and AI.
+* International Journal of Applied Earth Observation and Geoinformation.
+* Advanced Intelligent Systems.
+* Artificial Intelligence in Medicine.
+* Journal of Field Robotics.
   
 # Conference Reviewer #
 * IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021, 2022, 2023.
