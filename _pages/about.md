@@ -14,25 +14,6 @@ Current Research Interests
 ======
 His main research interests are concentrated in two cutting-edge technological areas: Extended Reality (XR) and robotics. Extended Reality encompasses Augmented Reality (AR), Virtual Reality (VR), and Mixed Reality (MR), which are dedicated to creating immersive user experiences and have a wide range of applications across industries such as gaming, education, healthcare, and design. In the field of robotics, Dr. An's research might cover various aspects from fundamental robot design and motion control algorithms to advanced artificial intelligence integration, autonomous navigation, and human-robot interaction. Through in-depth research in these areas, Dr. An is committed to advancing the development of intelligent systems to achieve a more intelligent and automated future. 
 
-**Human Body Perception**
-
-- Face detection, recognition and synthesis
-- Face / Foot landmark detection
-- Hand / Human pose estimation and gesture recognition
-- Skin lesion analysis, tongue and facial diagnosis in traditional Chinese medicine
-
-**Scene Perception**
-
-- Visual SLAM and Place recognition 
-- Depth Estimation 
-
-**Object Perception**
-
-- Content-based product image retrieval
-- Semantic and instance segmentation
-
-
-
 To Prospective Students
 ======
 We are looking for passionate interns who are pursuing a PhD or a Master degree in computer vision or machine learning research fields. Their tasks are researching and developing state of the art computer vision technologies for extended reality, while the ultimate goal is to change the real world. Welcome interested students to contact me directly.
