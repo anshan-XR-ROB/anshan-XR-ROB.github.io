@@ -8,31 +8,31 @@ redirect_from:
 ---
 Journal Publications
 ======
-* Y Li, G Chen, G Wang, Z Zhou, **Shan An**, S Dai, Y Jin, C Zhang, M Zhang,  
+* Yuxia Li, Guanqun Chen, Guoxin Wang, Zhiyi Zhou, **Shan An**, Shipeng Dai, Yuxin Jin, Chao Zhang, Mingkai Zhang, Feng Yu,  
   "Dominating Alzheimer's disease diagnosis with deep learning on sMRI and DTI-MD",  
   *Frontiers in Neurology 15, 1444795, 2024*.
-* X Ge, S Xu, F Chen, J Wang, G Wang, **Shan An**, JM Jose,  
+* Xuri Ge, Songpei Xu, Fuhai Chen, Jie Wang, Guoxin Wang, **Shan An**, Joemon M Jose,  
   "3SHNet: Boosting image–sentence retrieval via visual semantic–spatial self-highlighting",  
   *Information Processing & Management 61 (4), 103716, 2024*.
-* G Wang, F Fan, S Shi, **Shan An**, X Cao, W Ge, F Yu, Q Wang, X Han, S Tan,  
+* Guoxin Wang, Fengmei Fan, Sheng Shi, **Shan An**, Xuyang Cao, Wenshu Ge, Feng Yu, Qi Wang, Xiaole Han, Shuping Tan, Yunlong Tan, Zhiren Wang,  
   "Multi modality fusion transformer with spatio-temporal feature aggregation module for psychiatric disorder diagnosis",  
   *Computerized Medical Imaging and Graphics 114, 102368, 2024*.
-* Y Liang, C Zhang, **Shan An**, Z Wang, K Shi, T Peng, Y Ma, X Xie, J He,  
+* Yu Liang, Chenlong Zhang, **Shan An**, Zaitian Wang, Kaize Shi, Tianhao Peng, Yuqing Ma, Xiaoyang Xie, Jian He, Kun Zheng,  
   "FetchEEG: a hybrid approach combining feature extraction and temporal-channel joint attention for EEG-based emotion classification",  
   *Journal of Neural Engineering 21 (3), 036011, 2024*.
-* F Zhang, X Jin, G Lin, J Jiang, M Wang, **Shan An**, J Hu, Q Lyu,  
+* Fukai Zhang, Xiaobo Jin, Gang Lin, Jie Jiang, Mingzhi Wang, **Shan An**, Junhua Hu, Qiang Lyu,  
   "Hybrid attention network for citrus disease identification",  
   *Computers and Electronics in Agriculture 220, 108907, 2024*.
-* Z Gao, Y Guo, G Wang, X Chen, X Cao, C Zhang, **Shan An**, F Xu,  
+* Zebin Gao, Yuchen Guo, Guoxin Wang, Xiangru Chen, Xuyang Cao, Chao Zhang, **Shan An**, Feng Xu,  
   "Robust deep learning from incomplete annotation for accurate lung nodule detection",  
   *Computers in Biology and Medicine 173, 108361, 2024*.
-* W Li, H Li, X Sun, H Kang, **Shan An**, G Wang, Z Gao,  
+* Wenjie Li, Haoyu Li, Xinlin Sun, Huicong Kang, **Shan An**, Guoxin Wang, Zhongke Gao,  
   "Self-supervised contrastive learning for EEG-based cross-subject motor imagery recognition",  
   *Journal of Neural Engineering 21 (2), 026038, 2024*.
-* Z Jin, M Wang, C Tang, X Zheng, W Zhang, X Sha, **Shan An**,  
+* Zixiao Jin, Minhui Wang, Chang Tang, Xiao Zheng, Wen Zhang, Xiaofeng Sha, **Shan An**,  
   "Predicting miRNA-disease association via graph attention learning and multiplex adaptive modality fusion",  
   *Computers in Biology and Medicine 169, 107904, 2024*.
-* X Liu, S Bai, **Shan An**, S Wang, W Liu, X Zhao, Y Ma,  
+* Xianglong Liu, Shihao Bai, **Shan An**, Shuo Wang, Wei Liu, Xiaowei Zhao, Yuqing Ma,  
   "A meaningful learning method for zero-shot semantic segmentation",  
   *Science China Information Sciences 66 (11), 210103, 2023*.
 * **Shan An**, Fangru Zhou, Mei Yang, Shuang Bai, Chang Tang, and Haogang Zhu,   
