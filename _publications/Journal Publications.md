@@ -8,6 +8,33 @@ redirect_from:
 ---
 Journal Publications
 ======
+* Y Li, G Chen, G Wang, Z Zhou, **Shan An**, S Dai, Y Jin, C Zhang, M Zhang,  
+  "Dominating Alzheimer's disease diagnosis with deep learning on sMRI and DTI-MD",  
+  *Frontiers in Neurology 15, 1444795, 2024*.
+* X Ge, S Xu, F Chen, J Wang, G Wang, **Shan An**, JM Jose,  
+  "3SHNet: Boosting image–sentence retrieval via visual semantic–spatial self-highlighting",  
+  *Information Processing & Management 61 (4), 103716, 2024*.
+* G Wang, F Fan, S Shi, **Shan An**, X Cao, W Ge, F Yu, Q Wang, X Han, S Tan,  
+  "Multi modality fusion transformer with spatio-temporal feature aggregation module for psychiatric disorder diagnosis",  
+  *Computerized Medical Imaging and Graphics 114, 102368, 2024*.
+* Y Liang, C Zhang, **Shan An**, Z Wang, K Shi, T Peng, Y Ma, X Xie, J He,  
+  "FetchEEG: a hybrid approach combining feature extraction and temporal-channel joint attention for EEG-based emotion classification",  
+  *Journal of Neural Engineering 21 (3), 036011, 2024*.
+* F Zhang, X Jin, G Lin, J Jiang, M Wang, **Shan An**, J Hu, Q Lyu,  
+  "Hybrid attention network for citrus disease identification",  
+  *Computers and Electronics in Agriculture 220, 108907, 2024*.
+* Z Gao, Y Guo, G Wang, X Chen, X Cao, C Zhang, **Shan An**, F Xu,  
+  "Robust deep learning from incomplete annotation for accurate lung nodule detection",  
+  *Computers in Biology and Medicine 173, 108361, 2024*.
+* W Li, H Li, X Sun, H Kang, **Shan An**, G Wang, Z Gao,  
+  "Self-supervised contrastive learning for EEG-based cross-subject motor imagery recognition",  
+  *Journal of Neural Engineering 21 (2), 026038, 2024*.
+* Z Jin, M Wang, C Tang, X Zheng, W Zhang, X Sha, **Shan An**,  
+  "Predicting miRNA-disease association via graph attention learning and multiplex adaptive modality fusion",  
+  *Computers in Biology and Medicine 169, 107904, 2024*.
+* X Liu, S Bai, **Shan An**, S Wang, W Liu, X Zhao, Y Ma,  
+  "A meaningful learning method for zero-shot semantic segmentation",  
+  *Science China Information Sciences 66 (11), 210103, 2023*.
 * **Shan An**, Fangru Zhou, Mei Yang, Shuang Bai, Chang Tang, and Haogang Zhu,   
  “[Learning an Insertion Region for Advertisement Embedding on Planes](https://www.sciencedirect.com/science/article/pii/S0923596523000450)”,   
  *Signal Processing: Image Communication, 2023*.
