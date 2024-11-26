@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shan An / Tianjin University"
+title: "Shan An / Tenured Associate Professor at Tianjin University"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
