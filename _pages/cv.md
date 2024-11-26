@@ -17,7 +17,10 @@ Education
 
 Work experience
 ======
-* May. 2022 - present:  Head of Computer Vision and Signal Processing
+* Aug. 2024 - present:  Tenured Associate Professor 
+  * Tianjin University, Tianjin, China
+  
+* May. 2022 - Aug. 2024:  Head of Computer Vision and Signal Processing
   * JD Health International Inc., Beijing, China
 
 * Feb. 2016 - Apr. 2022: Leader of the Vision Learning Goup, Tech. and Data Center
