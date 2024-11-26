@@ -8,6 +8,27 @@ redirect_from:
 ---
 Conference Publications
 ======
+* X He, C Tang, X Liu, C Li, **Shan An**, Z Li,  
+  "Heterogeneous Graph Guided Contrastive Learning for Spatially Resolved Transcriptomics Data",  
+  *Proceedings of the 32nd ACM International Conference on Multimedia, 2024*.
+* X Ge, J Fu, F Chen, **Shan An**, N Sebe, JM Jose,  
+  "Towards End-to-End Explainable Facial Action Unit Recognition via Vision-Language Joint Learning",  
+  *Proceedings of the 32nd ACM International Conference on Multimedia, 8189-8198, 2024*.
+* G Wang, S Shi, **Shan An**, F Fan, W Ge, Q Wang, F Yu, Z Wang,  
+  "A Bi-Pyramid Multimodal Fusion Method for the Diagnosis Of Bipolar Disorders",  
+  *ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing, 2024*.
+* X Zou, C Tang, X Zheng, Z Li, X He, **Shan An**, X Liu,  
+  "DPNET: Dynamic Poly-attention Network for Trustworthy Multi-modal Classification",  
+  *Proceedings of the 31st ACM International Conference on Multimedia, 3550-3559, 2023*.
+* SN Moutsis, KA Tsintotas, I Kansizoglou, **Shan An**, Y Aloimonos, A Gasteratos,  
+  "Fall detection paradigm for embedded devices based on YOLOv8",  
+  *2023 IEEE International Conference on Imaging Systems and Techniques (IST), 1-6, 2023*.
+* Dimitrios Psychogyios, Emanuele Colleoni, Beatrice Van Amsterdam, Chih-Yang Li, Shu-Yu Huang, Yuchong Li, Fucang Jia, Baosheng Zou, Guotai Wang, Yang Liu, Maxence Boels, Jiayu Huo, Rachel Sparks, Prokar Dasgupta, Alejandro Granados, Sebastien Ourselin, Mengya Xu, An Wang, Yanan Wu, Long Bai, Hongliang Ren, Atsushi Yamada, Yuriko Harai, Yuto Ishikawa, Kazuyuki Hayashi, Jente Simoens, Pieter DeBacker, Francesco Cisternino, Gabriele Furnari, Alex Mottrie, Federica Ferraguti, Satoshi Kondo, Satoshi Kasai, Kousuke Hirasawa, Soohee Kim, Seung Hyun Lee, Kyu Eun Lee, Hyoun-Joong Kong, Kui Fu, Chao Li, **Shan An**, Stefanie Krell, Sebastian Bodenstedt, Nicolas Ayobi, Alejandra Perez, Santiago Rodriguez, Juanita Puentes, Pablo Arbelaez, Omid Mohareri, Danail Stoyanov,  
+  "Sar-rarp50: Segmentation of surgical instrumentation and action recognition on robot-assisted radical prostatectomy challenge",  
+  *arXiv preprint arXiv:2401.00496, 2023*.
+* G Wang, X Cao, **Shan An**, F Fan, C Zhang, J Wang,  
+  "Multi-Dimension-Embedding-Aware Modality Fusion Transformer for Psychiatric Disorder Classification",  
+  *arXiv preprint arXiv:2310.02690, 2023*.
 * **Shan An**, Guangfu Che, Jinghao Guo, Yanjie Xu, Guoxin Wang, Konstantinos A. Tsintotas, Fukai Zhang, Junjie Ye,
 Changhong Fu, Haogang Zhu, and Hong Zhang,      
  “An Open-Source Robotic Chinese Chess Player”,  
