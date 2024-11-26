@@ -16,4 +16,4 @@ His main research interests are concentrated in two cutting-edge technological a
 
 To Prospective Students
 ======
-We are looking for passionate interns who are pursuing a PhD or a Master degree in computer vision or machine learning research fields. Their tasks are researching and developing state of the art computer vision technologies for extended reality, while the ultimate goal is to change the real world. Welcome interested students to contact me directly.
+We are looking for passionate interns who are pursuing a PhD or a Master degree in computer vision, machine learning, or robotics research fields. Their tasks are researching and developing state of the art computer vision technologies for extended reality, while the ultimate goal is to change the real world. Welcome interested students to contact me directly.
