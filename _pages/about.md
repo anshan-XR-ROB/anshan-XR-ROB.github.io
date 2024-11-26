@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shan An / JD Health"
+title: "Shan An / Tianjin University"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
