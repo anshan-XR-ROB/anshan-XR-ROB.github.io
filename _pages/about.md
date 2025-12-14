@@ -12,7 +12,12 @@ Dr. Shan An received a Bachelor's degree in Automation Engineering from Tianjin 
 
 Current Research Interests
 ======
-His main research interests are concentrated in two cutting-edge technological areas: Extended Reality (XR) and robotics. Extended Reality encompasses Augmented Reality (AR), Virtual Reality (VR), and Mixed Reality (MR), which are dedicated to creating immersive user experiences and have a wide range of applications across industries such as gaming, education, healthcare, and design. In the field of robotics, Dr. An's research might cover various aspects from fundamental robot design and motion control algorithms to advanced artificial intelligence integration, autonomous navigation, and human-robot interaction. Through in-depth research in these areas, Dr. An is committed to advancing the development of intelligent systems to achieve a more intelligent and automated future. 
+1. Embodied Intelligence and Robotic Dexterous Manipulation
+Focusing on how robots interact with environments through hands, arms, and sensors to achieve dexterous, precise, and stable manipulation tasks via integrated perception-decision-control loops. Emphasis on imitation learning methods with applications in industrial, agricultural, and service robotics.
+2. Extended Robotics Reality
+Leveraging Augmented Reality (AR), Virtual Reality (VR), and Mixed Reality (MR) technologies to extend perception and control capabilities between humans and robots, as well as between robots and environments. Research directions include teleoperation, digital twins, and immersive human-robot interaction, serving as crucial enablers for remote collaboration and human-robot integration.
+3. Robotic Vision
+Exploring how robots understand environments through visual perception to support navigation, object recognition, grasping, and manipulation. Research encompasses multimodal visual fusion, object detection and tracking, pose estimation, and visual representation learning, forming the foundational perceptual capabilities for autonomous intelligent behaviors.
 
 To Prospective Students
 ======
