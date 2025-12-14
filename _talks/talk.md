@@ -7,6 +7,12 @@ redirect_from:
   - /resume
 ---
 # Talks and Presentations #
+* Digital Human IP Development,  
+DataFun Summit 2022 (Digital Human Technology Summit).  
+  2022
+* Exploring JD's AR Virtual Makeup and Shoe Try-On Technologies,  
+DataFun JD Retail Data Intelligence Practices Special Session.  
+  2021
 * JD AR cosmetics try-on system and shoe try-on system,  
 DataFun Talk, and Qilu University of Technology.   
  2021
