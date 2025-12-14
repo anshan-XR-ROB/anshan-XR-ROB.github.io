@@ -41,7 +41,7 @@ Conference Publications
 * Mengzhu Wang, **Shan An**, Wei Yu, Lu Gui, Junyang Chen, and Zhigang Luo,  
   "Attention-based Adversarial Partial Domain Adaptation",  
   *International Conference on Acoustics, Speech, & Signal Processing (ICASSP), 2022*.
-* Dong Wei, **Shan An**, Xiajie Zhang, Jiaxin Tian, Jianyu Yang, Konstantinos A. Tsintotas, and Haogang Zhu,  
+* Dong Wei, **Shan An**\*, Xiajie Zhang, Jiaxin Tian, Jianyu Yang, Konstantinos A. Tsintotas, and Haogang Zhu,  
   "Dual Regression for Efficient Hand Pose Estimation",  
   *International Conference on Robotics and Automation (ICRA), 2022*.
 * Konstantinos A. Tsintotas, **Shan An**, Ioannis Tsampikos Papapetros, Fotios K. Konstantinidis, Georgios Ch. Sirakoulis, and Antonios Gasteratos,  
@@ -65,7 +65,7 @@ Conference Publications
 * Yuqing Ma, Shihao Bai, **Shan An**, Wei Liu, Aishan Liu, Xiantong Zhen, and Xianglong Liu,  
   "Transductive Relation-Propagation Network for Few-shot Learning",  
   *The 29th International Joint Conference on Artificial Intelligence (IJCAI), Yokohama, Japan, 2020*.
-* **Shan An**, Zhibiao Huang, Guangfu Che, Xianglong Liu, Xin Ma, and Yu Chen,  
+* **Shan An#**, Zhibiao Huang#, Guangfu Che, Xianglong Liu, Xin Ma, and Yu Chen,  
   "Quarter-point Codeword Expansion for Product Quantization",  
   *IEEE International Conference on Multimedia and Expo (ICME), Shanghai, China, 2019*.
 * **Shan An**, Guangfu Che, Fangru Zhou, Xianglong Liu, Xin Ma, and Yu Chen,  
