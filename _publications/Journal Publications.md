@@ -8,10 +8,10 @@ redirect_from:
 ---
 Journal Publications
 ======
-* Boyuan Zhang, Fukai Zhang, **Shan An**, Fangqiang Ding, Yu Liang, Qiang Lyu,  
+* Boyuan Zhang, Fukai Zhang, **Shan An***, Fangqiang Ding, Yu Liang, Qiang Lyu,  
   "SCORE-DETR: An efficient Transformer-based network for small and occluded citrus detection",  
   *Computers and Electronics in Agriculture, 238:110843, 2025*.
-* Lu Chen, Jiajie Wen, Yan Gao, Jing Yang, Chao Zhang, **Shan An**, Peng Wu,  
+* Lu Chen, Jiajie Wen, Yan Gao, Jing Yang, Chao Zhang, **Shan An***, Peng Wu,  
   "Edge-guided Semi-supervised 6D Pose Estimation with Cross-domain Alignment for Robotic Grasping",  
   *Expert Systems with Applications, 129880, 2025*.
 * Qing Qin, Ziwei Lin, Guangyuan Gao, Chunxiao Han, Ruofan Wang, Yingmei Qin, Shanshan Li, **Shan An**, Yanqiu Che,  
@@ -29,7 +29,7 @@ Journal Publications
 * Jingyu Su, **Shan An**, Guoxin Wang, Xinlin Sun, Yushi Hao, Haoyu Li, Zhongke Gao,  
   "Transformer-Based Multi-Scale 3D Convolutional Network for Motor Imagery Classification",  
   *IEEE Sensors Journal, 25(5):8621–8630, 2025*.
-* Pei Feng Tong, Haoran Yang, Xinru Ding, Yuchuan Ding, Xiaokun Geng, **Shan An**, Guoxin Wang, Song Xi Chen,  
+* Pei Feng Tong, Haoran Yang, Xinru Ding, Yuchuan Ding, Xiaokun Geng, **Shan An***, Guoxin Wang, Song Xi Chen,  
   "Debiased Estimation and Inference for Spatial-Temporal EEG/MEG Source Imaging",  
   *IEEE Transactons on Medical Imaging, 44(3):1480–1493, 2025*.
 * Xuri Ge, Songpei Xu, Fuhai Chen, Jie Wang, Guoxin Wang, **Shan An**, Joemon M Jose,  
@@ -50,7 +50,7 @@ Journal Publications
 * **Shan An**, Jianye Chen, Zhaoqi Zhu, Fangru Zhou, Yuxing Yang, Yuqing Ma, Xianglong Liu, and Haogang Zhu,  
   "ARCosmetics: A Real-Time Augmented Reality Cosmetics Try-on System",  
   *Frontiers of Computer Science, 17(4):174706, 2023*.
-* **Shan An**, Fangru Zhou, Mei Yang, Shuang Bai, Chang Tang, Haogang Zhu,  
+* **Shan An#**, Fangru Zhou#, Mei Yang, Shuang Bai, Chang Tang, Haogang Zhu,  
   "Learning an insertion region for advertisement embedding on planes",  
   *Signal Processing: Image Communication, 116:116963, 2023*.
 * Hongxiang Gao, Min Wu, Zhenghua Chen, Yuwen Li, Xingyao Wang, **Shan An**, Jianqing Li, and Chengyu Liu,  
