@@ -56,21 +56,12 @@ Conference Publications
 * **Shan An**, Fangru Zhou, Mei Yang, Haogang Zhu, Changhong Fu, and Konstantinos A. Tsintotas,  
   "Real-time Monocular Human Depth Estimation and Segmentation on Embedded Systems",  
   *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Prague, Czech Republic, 2021*.
-* **Shan An**, Jing Lv, Haogang Zhu, Jingyi Wang, Xiaoxue Zhou, Qining Liu, Yier Shu, Zhengyu Liu, Yingying Zhang, Xiangyu Liu, and Yihua He,  
-  "Fetal Heart and Descending Aorta Detection in Four-Chamber View of Fetal Echocardiography",  
-  *43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), Mexico, 2021*.
-* **Shan An**, Xiaoxue Zhou, Haogang Zhu, Fangru Zhou, Yuduo Wu, Tingyang Yang, Xiangyu Liu, Yingying Zhang, Zhicheng Jiao, and Yihua He,  
-  "Simultaneous Segmentation of Four Cardiac Chambers in Fetal Echocardiography",  
-  *43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), Mexico, 2021*.
 * Peng Wang, Zheng Fang, Shibo Zhao, Yongnan Chen, Ming Zhou, and **Shan An**,  
   "Vanishing Point Aided LiDAR-Visual-Inertial Estimator",  
   *International Conference on Robotics and Automation (ICRA), Xi'an, China, 2021*.
 * Hongxiang Gao, **Shan An**, Jianqing Li, and Chengyu Liu,  
   "Deep Balanced Learning for Long-tailed Facial Expressions Recognition",  
   *International Conference on Robotics and Automation (ICRA), Xi'an, China, 2021*.
-* Tingyang Yang, Jiancheng Han, Haogang Zhu, Tiantian Li, Xiaowei Liu, Xiaoyan Gu, Xiangyu Liu, **Shan An**, Yingying Zhang, Ye Zhang, and Yihua He,  
-  "Segmentation of Five Components in Four Chamber View of Fetal Echocardiography",  
-  *IEEE 17th International Symposium on Biomedical Imaging (ISBI), Iowa City, IA, USA, 2020*.
 * Yuqing Ma, Shihao Bai, **Shan An**, Wei Liu, Aishan Liu, Xiantong Zhen, and Xianglong Liu,  
   "Transductive Relation-Propagation Network for Few-shot Learning",  
   *The 29th International Joint Conference on Artificial Intelligence (IJCAI), Yokohama, Japan, 2020*.
@@ -80,9 +71,3 @@ Conference Publications
 * **Shan An**, Guangfu Che, Fangru Zhou, Xianglong Liu, Xin Ma, and Yu Chen,  
   "Fast and Incremental Loop Closure Detection using Proximity Graphs",  
   *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Macau, China, 2019*.
-* **Shan An**, Zhibiao Huang, Yu Chen, Dennis Weng,  
-  "Near Duplicate Product Image Detection Based on Binary Hashing",  
-  *Proceedings of the 2017 International Conference on Deep Learning Technologies, 2017*.
-* **Shan An**, Xin Ma, Rui Song, Yibin Li,  
-  "Face detection and recognition with SURF for human-robot interaction",  
-  *IEEE International Conference on Automation and Logistics, 1946-1951, 2009*.
