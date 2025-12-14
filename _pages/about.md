@@ -12,11 +12,11 @@ Dr. Shan An received a Bachelor's degree in Automation Engineering from Tianjin 
 
 Current Research Interests
 ======
-1. Embodied Intelligence and Robotic Dexterous Manipulation 
+1. Embodied Intelligence and Robotic Dexterous Manipulation  
 Focusing on how robots interact with environments through hands, arms, and sensors to achieve dexterous, precise, and stable manipulation tasks via integrated perception-decision-control loops. Emphasis on imitation learning methods with applications in industrial, agricultural, and service robotics.
-2. Extended Robotics Reality 
+2. Extended Robotics Reality  
 Leveraging Augmented Reality (AR), Virtual Reality (VR), and Mixed Reality (MR) technologies to extend perception and control capabilities between humans and robots, as well as between robots and environments. Research directions include teleoperation, digital twins, and immersive human-robot interaction, serving as crucial enablers for remote collaboration and human-robot integration.
-3. Robotic Vision 
+3. Robotic Vision  
 Exploring how robots understand environments through visual perception to support navigation, object recognition, grasping, and manipulation. Research encompasses multimodal visual fusion, object detection and tracking, pose estimation, and visual representation learning, forming the foundational perceptual capabilities for autonomous intelligent behaviors.
 
 To Prospective Students
