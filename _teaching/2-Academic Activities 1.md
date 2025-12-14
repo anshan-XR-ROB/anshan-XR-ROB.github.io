@@ -90,6 +90,6 @@ redirect_from:
 * Sensors.
   
 # Conference Reviewer #
-* Reviewer in all major conferences in his field, since 2019, including:
-* ICRA, IROS, SMC, ICCV, ECCV, AAAI, IJCAI, MM
+* Reviewer in all major conferences in his field, since 2019, including:  
+  ICRA, IROS, SMC, ICCV, ECCV, AAAI, IJCAI, MM
 
