@@ -14,12 +14,6 @@ Journal Publications
 * Lu Chen, Jiajie Wen, Yan Gao, Jing Yang, Chao Zhang, **Shan An**, Peng Wu,  
   "Edge-guided Semi-supervised 6D Pose Estimation with Cross-domain Alignment for Robotic Grasping",  
   *Expert Systems with Applications, 129880, 2025*.
-* Gouxin Wang, Yuxia Li, Zhiyi Zhou, **Shan An**, Xuyang Cao, Yuxin Jin, Zhengqin Sun, Guanqun Chen, Mingkai Zhang, Zhixiong Li, Feng Yu,  
-  "PlgFormer: parallel extraction of local-global features for AD diagnosis on sMRI using a unified CNN-transformer architecture",  
-  *Frontiers in Neurology, 16:1626922, 2025*.
-* Guoxin Wang, Fengmei Fan, Shipeng Dai, **Shan An**, Chao Zhang, Sheng Shi, Yunan Mei, Feng Yu, Qi Wang, Xiaole Han, Shuping Tan, Yunlong Tan, Zhiren Wang,  
-  "CS2former: Multimodal feature fusion transformer with dual channel-spatial feature extraction module for bipolar disorder diagnosis",  
-  *Computerized Medical Imaging and Graphics, 102632, 2025*.
 * Qing Qin, Ziwei Lin, Guangyuan Gao, Chunxiao Han, Ruofan Wang, Yingmei Qin, Shanshan Li, **Shan An**, Yanqiu Che,  
   "MBE-UNet: Multi-branch Boundary Enhanced U-Net for Ultrasound Segmentation",  
   *IEEE Journal of Biomedical and Health Informatics, 2025*.
@@ -38,24 +32,12 @@ Journal Publications
 * Pei Feng Tong, Haoran Yang, Xinru Ding, Yuchuan Ding, Xiaokun Geng, **Shan An**, Guoxin Wang, Song Xi Chen,  
   "Debiased Estimation and Inference for Spatial-Temporal EEG/MEG Source Imaging",  
   *IEEE Transactons on Medical Imaging, 44(3):1480–1493, 2025*.
-* Yuxia Li, Guanqun Chen, Guoxin Wang, Zhiyi Zhou, **Shan An**, Shipeng Dai, Yuxin Jin, Chao Zhang, Mingkai Zhang, Feng Yu,  
-  "Dominating Alzheimer's disease diagnosis with deep learning on sMRI and DTI-MD",  
-  *Frontiers in Neurology, 15: 1444795, 2024*.
 * Xuri Ge, Songpei Xu, Fuhai Chen, Jie Wang, Guoxin Wang, **Shan An**, Joemon M Jose,  
   "3SHNet: Boosting image–sentence retrieval via visual semantic–spatial self-highlighting",  
   *Information Processing & Management, 61(4): 103716, 2024*.
-* Guoxin Wang, Fengmei Fan, Sheng Shi, **Shan An**, Xuyang Cao, Wenshu Ge, Feng Yu, Qi Wang, Xiaole Han, Shuping Tan, Yunlong Tan, Zhiren Wang,  
-  "Multi modality fusion transformer with spatio-temporal feature aggregation module for psychiatric disorder diagnosis",  
-  *Computerized Medical Imaging and Graphics, 114: 102368, 2024*.
-* Yu Liang, Chenlong Zhang, **Shan An**, Zaitian Wang, Kaize Shi, Tianhao Peng, Yuqing Ma, Xiaoyang Xie, Jian He, Kun Zheng,  
-  "FetchEEG: a hybrid approach combining feature extraction and temporal-channel joint attention for EEG-based emotion classification",  
-  *Journal of Neural Engineering, 21(3):036011, 2024*.
 * Fukai Zhang, Xiaobo Jin, Gang Lin, Jie Jiang, Mingzhi Wang, **Shan An**, Junhua Hu, Qiang Lyu,  
   "Hybrid attention network for citrus disease identification",  
   *Computers and Electronics in Agriculture, 220: 108907, 2024*.
-* Zebin Gao, Yuchen Guo, Guoxin Wang, Xiangru Chen, Xuyang Cao, Chao Zhang, **Shan An**, Feng Xu,  
-  "Robust deep learning from incomplete annotation for accurate lung nodule detection",  
-  *Computers in Biology and Medicine, 173: 108361, 2024*.
 * Wenjie Li, Haoyu Li, Xinlin Sun, Huicong Kang, **Shan An**, Guoxin Wang, Zhongke Gao,  
   "Self-supervised contrastive learning for EEG-based cross-subject motor imagery recognition",  
   *Journal of Neural Engineering, 21(2): 026038, 2024*.
@@ -74,15 +56,9 @@ Journal Publications
 * Hongxiang Gao, Min Wu, Zhenghua Chen, Yuwen Li, Xingyao Wang, **Shan An**, Jianqing Li, and Chengyu Liu,  
   "SSA-ICL: Multi-domain adaptive attention with intra-dataset continual learning for Facial expression recognition",  
   *Neural Networks, 158:228-238, 2022*.
-* Tingyang Yang, Ye Zhang, Mengxiao Zhu, Yan Wang, **Shan An**, Xiaoyan Gu, Xiaowei Liu, Jiancheng Han, Yihua He, Haogang Zhu,  
-  "Segmentation of ten fetal heart components with coarse‐to‐fine cascading and dynamic feature powering",  
-  *IET Image Processing, 16(14): 3831-3841, 2022*.
 * Lin Ge, Bo Lv, Na Li, **Shan An**, Fei-Yue Wang,  
   "A hypertension parallel healthcare system based on the ACP approach",  
   *IEEE Journal of Radio Frequency Identification, 6:724-728, 2022*.
-* Tingyang Yang, Jingshuang Xu, Mengxiao Zhu, **Shan An**, Ming Gong, and Haogang Zhu,  
-  "FedZaCt: Federated Learning with Z average and Cross teaching on Image Segmentation",  
-  *Electronics, 11(20):3262, 2022*.
 * **Shan An**, Haogang Zhu, Jiaao Zhang, Junjie Ye, Siliang Wang, Jianqin Yin, and Hong Zhang,  
   "Deep Tri-Training for Semi-Supervised Image Segmentation",  
   *IEEE Robotics and Automation Letters, 7(4):10097-10104, 2022*.
